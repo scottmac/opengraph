@@ -152,14 +152,3 @@ class OpenGraph implements Iterator
 	public function next() { next($this->_values); ++$this->_position; }
 	public function valid() { return $this->_position < sizeof($this->_values); }
 }
-
-/* tests
-$test = OpenGraph::fetch('http://www.rottentomatoes.com/m/10011268-oceans/');
-var_dump($test->keys());
-foreach ($test AS $key => $value) {
-	var_dump($key, $value);
-}
-
-$test = OpenGraph::fetch('http://www.example.org');
-var_dump($test);
-*/
