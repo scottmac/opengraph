@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>IANA &mdash; Example domains</title>
+	<!-- start common-head -->
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="/_css/2008.1/reset-fonts-grids.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/_css/2008.1/screen.css" />
+	<link rel="stylesheet" type="text/css" media="print" href="/_css/2008.1/print.css" />
+	<link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+	<script type="text/javascript" src="/_js/prototype.js"></script>
+	<script type="text/javascript" src="/_js/corners.js"></script>
+	<script type="text/javascript" src="/_js/common.js"></script>
+	<!-- end common-head -->
+
+</head>
+<body>
+	<!-- start common-bodyhead -->
+	<div id="header-frame">
+	<div id="header">
+	<div id="header-logo"><a href="/"><img src="/_img/iana-logo-pageheader.png" alt="Homepage"/></a></div>
+	<div id="header-nav">
+	<ul>
+	<li><a href="/domains/">Domains</a></li>
+	<li><a href="/numbers/">Numbers</a></li>
+	<li><a href="/protocols/">Protocols</a></li>
+	<li><a href="/about/">About IANA</a></li>
+	</ul>
+	</div>
+	</div>
+	</div>
+
+	<div id="body-container">
+	<div id="body">
+	<!-- end common-bodyhead -->
+
+
+	<h1>Example Domains</h1>
+
+	<p>As described in <a href="/go/rfc2606">RFC 2606</a>,
+	we maintain a number of domains such as EXAMPLE.COM and EXAMPLE.ORG
+	for documentation purposes. These domains may be used as illustrative
+	examples in documents without prior coordination with us. They are 
+	not available for registration.</p>
+
+	 <!-- start common-bodytail -->
+	</div>
+	</div>
+
+	<div id="footer-frame">
+	<div id="footer">
+
+
+	<table width=100%>
+	<tr>
+		<td id="iana-footer-first"><b><a href="/about/">About</a></b><br/>
+                <a href="/about/presentations/">Presentations</a><br/>
+                <a href="/about/performance/">Performance</a><br/>
+		<a href="/reports/">Reports</a><br/>
+                </td>
+
+		<td><b><a href="/domains/">Domains</a></b><br/>
+		<a href="/domains/root/">Root Zone</a><br/>
+		<a href="/domains/int/">.INT</a><br/>
+		<a href="/domains/arpa/">.ARPA</a><br/>
+		<a href="/domains/idn-tables/">IDN Repository</a></td>
+
+		<td><b><a href="/protocols/">Protocols</a></b><br/>
+		<br/>
+		<b><a href="/numbers/">Number Resources</a></b><br/>
+		<a href="/abuse/">Abuse Information</a></td>
+
+		<td id="iana-footer-icann"><img src="/_img/icann-logo-micro.png"><br/>IANA is operated by the<br/><a href="http://www.icann.org/">Internet Corporation for Assigned Names and Numbers</a></td>
+	</tr>
+	</table>
+
+<div id="footer-beta-feedback">
+        <p>Please direct general feedback regarding IANA to <a href="mailto:iana@iana.org?subject=General%20website%20feedback">iana@iana.org</a>.</p>
+        </div>
+
+	</div>
+	</div>
+	<!-- end common-bodytail -->
+
+
+</body>
+</html>

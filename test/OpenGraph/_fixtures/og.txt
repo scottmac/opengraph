@@ -1,0 +1,15700 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+	
+ 	 
+		
+	
+
+
+
+
+<html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<head prefix="og: http://ogp.me/ns# flixstertomatoes: http://ogp.me/ns/apps/flixstertomatoes#">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+	
+	<meta property="og:title" content="Oceans (Disneynature's Oceans)" />
+	<meta property="og:type" content="video.movie" />
+	<meta property="og:image" content="http://content9.flixster.com/movie/11/04/79/11047971_pro.jpg" />
+	<meta property="og:url" content="http://www.rottentomatoes.com/m/10011268-oceans/" />
+	<meta property="og:description" content="<em>Oceans</em> adds another visually stunning chapter to the Disney Nature library." />
+	
+	
+	<meta property="video:release_date" content="2010-04-22" />
+	
+	<meta property="video:duration" content="103" />
+	
+	<meta property="video:director" content="http://www.rottentomatoes.com/celebrity/jacques_perrin/" />  
+	
+	<meta property="video:director" content="http://www.rottentomatoes.com/celebrity/jacques_cluzaud/" />  
+	
+	
+	
+		<meta property="video:actor" content="http://www.rottentomatoes.com/celebrity/pierce_brosnan/" />
+		
+	
+		<meta property="video:actor" content="http://www.rottentomatoes.com/celebrity/lancelot_perrin/" />
+		
+	
+
+	<meta property="fb:admins" content="1106591,615860,6406208,208424,691247896,500043294,500011910" />
+	<meta property="fb:app_id" content="326803741017" />
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	<style>
+		.lineHeader {height: 0.6em; border-bottom: 1px solid #d6d6d6; margin-bottom: 1.5em; margin-top:5px; }
+		.lineHeader span{ background-color: #fff;}
+		.lineHeader sub {text-transform: none; color: #AAA;}
+		.lineHeader .fl {padding-right: 1em;}
+		.lineHeader .fr {padding-left: 1em;}
+	
+		.movie_poster_area a { display: block; position: relative;}
+		.movie_poster_area a .play_button_big { display: none;position: absolute; top: 50%;	left: 50%; margin: -20px 0 0 -20px;
+		}
+		.movie_poster_area a:hover .play_button_big {
+			display:block;
+		}			
+	
+		 
+		
+	</style>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Oceans (Disneynature's Oceans) - Rotten Tomatoes</title>
+
+
+
+
+
+
+	<link rel="canonical" href="http://www.rottentomatoes.com/m/10011268-oceans/" itemprop="url"/>
+
+
+
+
+	<meta name="description" content="Review: &lt;em&gt;Oceans&lt;/em&gt; adds another visually stunning chapter to the Disney Nature library."/>
+
+
+
+
+
+
+
+
+
+<!--[if lt IE 9]>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+			
+			
+			
+			<link rel="stylesheet" href="http://images.rottentomatoescdn.com/styles/rt_global_lt_ie8.css?v=prod20120517" type="text/css"/>
+		
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+			
+			<script type="text/javascript" src="//images.rottentomatoescdn.com/js/html5.js?v=prod20120517" charset="utf-8"></script>
+			
+			
+		
+	
+
+<![endif]-->
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="http://images.rottentomatoescdn.com/images/icons/apple-touch-icon.png"/>
+
+<link rel="shortcut icon" href="http://images.rottentomatoescdn.com/images/icons/favicon.ico" type="image/x-icon"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<link href="http://images.rottentomatoescdn.com/assets/v/prod20120517/styles?f=/styles/rt_global.css&f=/styles/comp/Autocomplete.css&f=/styles/ads.css&f=/styles/comp/Rating.css&f=/styles/comp/social.css&f=/styles/comp/LoginDialog.css&f=/styles/jqueryui/rt-theme/jquery-ui-1.8.13.custom-dialog.css"" type="text/css" rel="stylesheet" charset="utf-8"></link>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<link href="http://images.rottentomatoescdn.com/assets/v/prod20120517/styles?f=/styles/movie/movie.css&f=/styles/movie/reviews.css&f=/styles/movie/quotes.css&f=/styles/comp/LoginDialog.css" type="text/css" rel="stylesheet" charset="utf-8"></link>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<script type="text/javascript" src="//images.rottentomatoescdn.com/assets/v/prod20120517/scripts?f=/js/globals.js&f=/js/jquery/jquery-1.6.1.js&f=/js/lib/json2.js&f=/js/jquery/plugins/jquery.flixster.js&f=/js/jquery/plugins/jquery.elementReady.js&f=/js/jquery/plugins/jquery.hoverIntent.minified.js&f=/js/comp/Autocomplete.js&f=/js/comp/common.js&f=/js/jquery/plugins/jquery.rt_showMoreLink.js&f=/js/comp/Social.js&f=/js/comp/Rating.js&f=/js/comp/ads.js&f=/js/jquery/ui/ui-1.8.7.custom.min.js&f=/js/jquery/plugins/jquery.tmpl.js" charset="utf-8"></script>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<script type="text/javascript" src="//images.rottentomatoescdn.com/assets/v/prod20120517/scripts?f=/js/jquery/ui/ui-1.8.7.custom.min.js&f=/js/jquery/plugins/jquery.scrollTo-min.js&f=/js/jquery/plugins/jquery.tooltip.min.js&f=/js/jquery/plugins/jquery.rt_overlay.js&f=/js/jquery/plugins/jquery.rt_inview.js&f=/js/comp/HashLoader.js&f=/js/comp/ExpandableTextInput.js&f=/js/backbone/underscore-min.js&f=/js/backbone/backbone-min.js&f=/js/comp/LoginDialog.js" charset="utf-8"></script>
+	
+	
+
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [['_setAccount', 'UA-2265251-1']];
+</script>
+
+
+
+
+
+<script type="text/javascript">
+var qcsegments = getCookie("qcs");
+
+
+
+
+</script>
+
+	
+</head>
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	
+	
+	
+
+
+
+
+<body id="" itemscope itemtype="http://www.schema.org/Movie" >
+<div id="emptyPlaceholder"></div> 
+
+
+
+
+
+<style type="text/css">.trailer_action_button {
+			display:block;
+			margin-bottom:8px; 
+			width:144px; 
+			height:26px;
+			background:transparent url('http://images.rottentomatoescdn.com/images/buttons/playtrailer-lg.png?v=20110330') no-repeat 0px 0px;
+		}
+		.trailer_action_button:hover { background-position:0px -26px; }
+		div.main_movie_area div.movie_poster_area > a > img { margin-bottom:4px; }
+
+	.pinterestContainer { display:inline-block; vertical-align: top; height: 25px; width:100px;}
+
+	.gPlusOne { display:inline-block; vertical-align: top; height: 25px; width:100px;}
+	.gPlusOne > * { top: 0px !important; }
+
+	.twitterContainer { display:inline-block; vertical-align: top; height:25px; width:100px;}
+
+	.fb-like { display:inline-block; vertical-align:top; height:25px; width: 100px; }
+
+	.stumbleUponContainer { display:inline-block; vertical-align:top; height:25px; width:100px; }
+
+	div.movie_content_area div.movie_info p.movie_synopsis { margin-bottom:16px; }
+
+#features_sidebar .poster_box {width: 130px;}</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="preOverlay" style="display:none;">disableOverlay=, param.forceOverlay=</div>
+
+
+
+
+
+
+	
+	
+    
+		
+		
+		
+		
+		 	<style id="overlay_ads_style" type="text/css">
+		 		#leaderboard_ad, #billboard_ad, #halfpage_ad { left:-65536px; }
+		 		#overlay_payload { clear:both; width:970px; height:500px; }
+		 		#overlay_payload>* { display:block; margin-left:auto; margin-right:auto; } 
+		 		#overlay_payload>script { display:none; }
+		 		#overlay_payload>style { display:none; }
+		 	</style>
+			<script type="text/javascript">
+				var _gaq = _gaq || [];
+				var _overlayDelivered = false;
+				function showAds() { $("#overlay_ads_style").remove(); }
+				function hideAds() { return (_overlayDelivered = true); }
+				RT.ads = RT.ads || {}; 
+				
+				function closeOverlay(event) {
+					$('#overlay_body').trigger("overlayClosed").remove();
+					showAds();
+					if (event.preventDefault) event.preventDefault();
+					RT.ads.overlayVisible = false;
+					return false;
+				}
+				
+				function showOverlay() {
+					var overlay = $('#overlay_body');
+					RT.ads.overlayVisible = overlay && overlay.css('display','block') && hideAds();
+				}
+		
+				
+				
+		
+				function showLivingSocial(message) {
+					
+					
+					$(function() {
+						hideAds();
+						$('#livingsocial .deal').html(message);
+						$('#livingsocial').css('display', 'block');
+						_gaq.push(['_trackEvent', 'LivingSocial', 'Overlay', 'Showoverlay']);
+					});
+					
+				}
+		
+				function submitLivingSocialEmail() {
+					var email = $("#lsEmail").attr("value");
+					if (email == null || email == '' || email == 'Enter your email address...' || email.indexOf('@') < 0 || email.indexOf('.') < 0) {
+						alert("Please enter a valid email address.");
+						return false;
+					}
+					_gaq.push(['_trackEvent', 'LivingSocial', 'Overlay', 'ValidEmailoverlay']);
+					$('#lsConfirm').hide();
+					$('#lsEmail').hide();
+					$('#lsSubmit').hide();
+					$('#lsClose').show();
+					$('#lsLink').show();
+					$('#lsLabel').html('Thanks!<br />Your email has been submitted.');
+					$.post('/sponsors/groupon/action/submit-email', $('#lsEmailForm').serialize());
+					return false;
+				}
+		    </script>
+			
+			
+			
+			<div id="overlay_body">
+				<div class="body">
+					<div class="head">
+						<div class="header_top"></div>
+						<div class="header_main"><a class="rt-logo">Rotten Tomatoes</a></div>
+					</div>
+					<div class="body_head"></div>
+					<div class="body_main">
+						
+					    <a class="fr" id="overlay_close" href="#" onClick="closeOverlay(event);">Skip this ad &#187;</a>
+					    
+					      
+					      
+					    
+					    <div id="overlay_payload" class="middle">
+					      
+					        
+					        
+					        
+					        	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+	
+	
+	
+		
+		
+		
+	
+	
+	
+		
+		
+		
+		
+			
+				
+				
+				
+				
+					
+					 
+					
+					
+						
+					
+					
+						
+						
+					
+				
+			
+			
+				
+				
+				
+				
+			
+			
+		
+	
+	
+	
+	
+	
+		
+		
+			
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+				
+					
+					
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+		
+	
+	
+	
+	<!-- Begin DART Tag-->
+	<script type="text/javascript">
+	(function() {
+		if(typeof(encodedUrl) == "undefined"){
+		    var encodedUrl = encodeURI(location.pathname);
+		    var urlParam = "";
+		    if(urlParam != null && urlParam.length > 0){
+		        encodedUrl = encodeURI(urlParam);
+		    }
+		}
+		document.write('<scr'+'ipt src="//ad.doubleclick.net/N6327/adj/rt.movie/prestitial;pos=;'+qcsegments+';tile=6;sz=600x400,1010x500,970x500;genre=documentary,drama;url='+ encodedUrl +';test=;ord=1337421465749?"></scr'+'ipt>');
+	})();
+	</script>
+	<noscript><a href="//ad.doubleclick.net/N6327/jump/rt.movie/prestitial;pos=;tile=6;sz=600x400,1010x500,970x500;genre=documentary,drama;url=http%3A%2F%2Fwww.rottentomatoes.com%2Fm%2F10011268-oceans%2F;ord=1337421465749;?" target="_blank"><img src="http://ad.doubleclick.net/N6327/ad/rt.movie/prestitial;pos=;tile=6;sz=600x400,1010x500,970x500;genre=documentary,drama;url=http%3A%2F%2Fwww.rottentomatoes.com%2Fm%2F10011268-oceans%2F;ord=1337421465749?" border="0" alt=""></a></noscript>
+	<!-- End DART Tag-->
+
+
+					        
+					      
+					    </div>
+					</div>
+					<div class="body_foot"></div>
+				</div>
+			</div>
+			<script type="text/javascript">if (!_overlayDelivered) showAds();</script>
+		
+	
+
+
+<script type="text/javascript">
+RT.Login = {
+		'initLoggedInState' : false, 
+		'initLoggedInFB' : false, 
+		'initLoggedInFLX' : false, 
+		'initLoggedInRT' : false, 
+		'initUserId' : '', 
+		'initSourcePlatform' : '', 
+		'initLoginPlatform' : '', 
+		'updatedFbLoggedIn' : null
+	};
+</script>
+
+<div class="head" id="head">
+	
+	<div id="top_header_bar">
+ 		<div id="user_navigation"> 
+ 			
+ 			
+ 			 	
+				<a id="header_login_link" href="/login/" style="font-size:11px;">RT Login</a>				
+				<div id="fbusercontrols">
+					
+							
+					<a class="fb_button fb_button_medium rt_fblogin" href="javascript:void(0);"><span class="fb_button_text">Log In</span></a>
+				</div>			
+			
+			
+			
+		</div>
+		<div id="socialBar">
+ 			
+		</div>
+		<ul class="static_header_links">
+			
+
+			<li class="helpful_links">
+				
+				
+				
+			</li>
+		</ul>
+	</div>
+	
+	<div class="header_main">
+		<a class="rt-logo " href="/">Rotten Tomatoes</a>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="searchBar">
+    <form style="position:relative;" id="searchformnew" name="searchformnew" method="get" action="/search/">
+        <fieldset comp="Autocomplete" tabindex="-1">
+            <div class="searchBox" sub="searchBox">
+            	<input sub="input" type="text" name="search" onblur="this.parentNode.parentNode.className='';" onfocus="this.parentNode.parentNode.className='selected'; if (value == 'ZIP Code or City, State' || value == 'Search movies, actors, critics') { value ='' }" id="mini_searchbox" value="Search movies, actors, critics" defaulttext="Search movies, actors, critics"  name="search" gtbfieldid="27" autocomplete="off" />
+            	<button sub="submitbutton" type="submit"><span class="icon magnify"></span></button>
+            </div>
+            <ul sub="result" class="autocomplete subnav"></ul>
+            <input type="hidden" value="rt" name="sitesearch"/>
+        </fieldset>
+    </form>
+    <div id="searchBar_right"></div>
+</div>
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+	
+	
+		 
+		
+		<ul id="nav_primary" class="drop_menu">
+	        <li class="no-js">
+	        	<ul class="subnav">
+        			<li>
+			        	<ul class="subnav_items">
+				        	<li><a href="/movie/box_office.php">Box Office</a></li>
+				        	<li><a href="/movie/in-theaters/">In Theaters</a></li>
+				        	<li><a href="/movie/upcoming/">Upcoming</a></li>
+							<li><a href="/top/">Top Movies</a></li>
+				        	<li><a href="/movie/certified_fresh.php">Certified Fresh</a></li>
+				        	<li><a href="/movie_times/">Showtimes</a></li>
+				        	<li><a href="/trailers/">Trailers</a></li>
+				        	<li><a href="/movie/photos/">Photos</a></li>
+			       		</ul>
+	       			</li>
+	       			
+		       		<li class="subnav_extra">
+		       			<h4>Opening this week</h4>
+		       			<ul>
+			       			
+			       				<li class="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/battleship/" title="Battleship" class="" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+	
+	
+	
+
+
+<img src="http://content7.flixster.com/movie/11/16/26/11162645_tmb.jpg" width="51" height="81" alt="" title=""  />
+</a><p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/battleship/"  class="" >Battleship</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+			
+			
+			<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">36%</span>
+		
+		
+	
+	</span></li>
+			       			
+			       				<li class="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/the_dictator_2012/" title="The Dictator" class="" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+	
+	
+	
+
+
+<img src="http://content9.flixster.com/movie/11/16/51/11165119_tmb.jpg" width="53" height="81" alt="" title=""  />
+</a><p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/the_dictator_2012/"  class="" >The Dictator</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+			
+			
+			<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+tiny fresh"></span><span class="tMeterScore">61%</span>
+		
+		
+	
+	</span></li>
+			       			
+			       				<li class="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/what_to_expect_when_youre_expecting/" title="What to Expect When You\'re Expecting" class="" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+	
+	
+	
+
+
+<img src="http://content8.flixster.com/movie/11/16/43/11164346_tmb.jpg" width="54" height="80" alt="" title=""  />
+</a><p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/what_to_expect_when_youre_expecting/"  class="" >What to Expect When You're Expecting</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+			
+			
+			<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">22%</span>
+		
+		
+	
+	</span></li>
+			       			
+		       			</ul>
+		       		</li>
+	       		</ul>
+	       		<h2 class="menu_label"><a href="/">Movies <span class="icon dropdown_arrows"></span></a></h2>
+	        </li>
+	 		 
+	        <li class="no-js">	        
+	        	<ul class="subnav">
+	        		<li>
+			        	<ul class="subnav_items">
+							<li><a href="/dvd/top_rentals.php" >Top Rentals</a></li>
+							<li><a href="/dvd/new_releases.php" >New Releases</a></li>
+							<li><a href="/dvd/netflix/" >Netflix Streaming</a></li>
+							<li><a href="/dvd/current_releases.php" >Current Releases</a></li>							
+							<li><a href="/top/" >Best Of</a></li>
+							<li><a href="/dvd/upcoming.php" >Upcoming</a></li>							
+							<li><a href="/dvd/certified_fresh.php" >Certified Fresh</a></li>
+						</ul>
+					</li>
+		       		<li class="subnav_extra">
+		       			<h4>New on DVD</h4>
+		       			<ul>
+		       										
+		       					<li class="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/chronicle/" title="Chronicle" class="" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+	
+	
+	
+
+
+<img src="http://content7.flixster.com/movie/11/16/30/11163017_tmb.jpg" width="54" height="80" alt="" title=""  />
+</a><p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/chronicle/"  class="" >Chronicle</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+			
+			
+			<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+tiny fresh"></span><span class="tMeterScore">85%</span>
+		
+		
+	
+	</span></li>
+		       										
+		       					<li class="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/the_grey_2012/" title="The Grey" class="" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+	
+	
+	
+
+
+<img src="http://content6.flixster.com/movie/11/16/45/11164556_tmb.jpg" width="54" height="81" alt="" title=""  />
+</a><p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/the_grey_2012/"  class="" >The Grey</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+			
+			
+			<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+tiny fresh"></span><span class="tMeterScore">79%</span>
+		
+		
+	
+	</span></li>
+		       										
+		       					<li class="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/the_devil_inside/" title="The Devil Inside" class="" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+	
+	
+	
+
+
+<img src="http://content7.flixster.com/movie/11/16/10/11161025_tmb.jpg" width="54" height="80" alt="" title=""  />
+</a><p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/the_devil_inside/"  class="" >The Devil Inside</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+			
+			
+			<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">7%</span>
+		
+		
+	
+	</span></li>
+		       					
+		       			</ul>
+		       		
+		       		</li>					
+				</ul>
+				<h2 class="menu_label"><a href="/dvd/">DVD <span class="icon dropdown_arrows"></span></a></h2>
+	        </li>
+	        <li class="no-js">
+	        	<ul class="subnav">
+	        		<li>
+			        	<ul class="subnav_items">
+							<li><a href="/celebrity/">View All</a></li>
+			        	</ul>
+			     	</li>
+		       		<li class="subnav_extra">
+		       			<h4>Who's In Theaters This Weekend?</h4>
+		       			<ul>											
+		       				
+							
+		       				
+			       				<li class="center">
+			       					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="" href="/celebrity/liam_neeson/"  title="Liam Neeson">
+										
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Liam Neeson" src="http://content9.flixster.com/site/10/25/07/10250763_tmb.jpg" width="80" height="64"  /> 
+									</a>
+			       					<p>
+			       						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="" href="/celebrity/liam_neeson/" >
+			       							Liam Neeson
+			       						</a>
+			       					</p>
+			       				</li>		       				
+		       				
+			       				<li class="center">
+			       					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="" href="/celebrity/sacha_baron_cohen/"  title="Sacha Baron Cohen">
+										
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Sacha Baron Cohen" src="http://content6.flixster.com/site/10/25/07/10250764_tmb.jpg" width="80" height="64"  /> 
+									</a>
+			       					<p>
+			       						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="" href="/celebrity/sacha_baron_cohen/" >
+			       							Sacha Baron Cohen
+			       						</a>
+			       					</p>
+			       				</li>		       				
+		       				
+			       				<li class="center">
+			       					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="" href="/celebrity/cameron_diaz/"  title="Cameron Diaz">
+										
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Cameron Diaz" src="http://content7.flixster.com/site/10/25/07/10250765_tmb.jpg" width="80" height="64"  /> 
+									</a>
+			       					<p>
+			       						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="" href="/celebrity/cameron_diaz/" >
+			       							Cameron Diaz
+			       						</a>
+			       					</p>
+			       				</li>		       				
+		       				
+		       			</ul>
+		       		
+		       		</li>				        
+				</ul>
+	        	<h2 class="menu_label"><a href="/celebrity/">Celebrities <span class="icon dropdown_arrows"></span></a></h2>
+	        </li>  
+	        
+	        <li class="no-js">
+	        	<ul class="subnav news">
+	        		<li>
+			        	<ul class="subnav_items">
+							<li><a href="/features/">Features</a></li>
+							<li><a href="/news/columns/">Columns</a></li>
+							<li><a href="/guides/">Guides</a></li>
+			        	</ul>
+			     	</li>
+		       		<li class="subnav_extra">
+		       			<h4>What's Hot on Rotten Tomatoes</h4>
+		       			<ul>
+			       			
+								<li class="center">
+										
+										<a href="/m/rise_of_the_planet_of_the_apes/news/1925194/weekly_ketchup_rise_of_the_planet_of_the_apes_sequel_gets_a_writer/">
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Weekly Ketchup" src="http://content9.flixster.com/site/10/25/08/10250891_tmb.jpg" width="80" height="80"  />
+										</a>
+										
+									<p><a href="/m/rise_of_the_planet_of_the_apes/news/1925194/weekly_ketchup_rise_of_the_planet_of_the_apes_sequel_gets_a_writer/">Weekly Ketchup</a></p>			
+								</li>
+							
+								<li class="center">
+										
+										<a href="/m/battleship/news/1925190/critics_consensus_battleship_is_all_wet/">
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Critics Consensus" src="http://content9.flixster.com/site/10/25/08/10250851_tmb.jpg" width="80" height="80"  />
+										</a>
+										
+									<p><a href="/m/battleship/news/1925190/critics_consensus_battleship_is_all_wet/">Critics Consensus</a></p>			
+								</li>
+							
+		       			</ul>
+		       		
+		       		</li>				        
+				</ul>
+				<h2 class="menu_label"><a href="/news/">News <span class="icon dropdown_arrows"></span></a></h2>
+	        </li>
+
+	        <li class="no-js">
+	        	<ul class="subnav critics">
+	        		<li>
+			        	<ul class="subnav_items">
+							<li><a href="/critics/authors.php">Critics List</a></li>
+							<li><a href="/critics/sources.php">Publications List</a></li>
+							<li><a href="/critics/latest_reviews.php">Latest Reviews</a></li>
+			        	</ul>
+			     	</li>
+		       		<li class="subnav_extra">
+		       			<h4>Spotlight</h4>
+		       			<ul>
+		       			
+			       			
+								<li class="center">
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/nell-minow/" class="" ><img src="http://content9.flixster.com/critic/15/1579_tmb.gif" width="72" height="72" alt="Nell Minow"  /></a>
+
+									
+									<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/nell-minow/" class="" >Nell Minow</a>
+</p>			
+								</li>
+							
+		       			</ul>
+		       		
+		       			</li>				        
+					</ul>
+	        	<h2 class="menu_label"><a href="/critics/">Critics <span class="icon dropdown_arrows"></span></a></h2>
+	        </li> 
+        </ul>
+		
+	
+
+
+		
+	</div>
+</div>
+
+
+
+
+
+<div id="fb-root"></div>
+<script>
+	var social_init = new $.Deferred(); // See http://trac.flixsterqa.com/wiki/Dev/header for detailed explanation of these 4 deferreds 
+	var fb_ready = new $.Deferred();    
+	var fb_connected = new $.Deferred(); 
+	var fb_login = new $.Deferred();     
+	
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId: '326803741017', 
+			status: true, 
+			cookie: true, 
+			xfbml: true,
+			oauth: true,
+			channelUrl: "http://www.rottentomatoes.com/facebook/channel.html"
+		});		
+
+		// FB scripts ready. (Does not imply logged in)
+		fb_ready.resolve();		
+		
+		$(".rt_fblogin").live("click", function(){
+			var scope = $(this).attr("scope");
+			if (scope == undefined) {
+				scope = 'email,publish_actions';
+			}
+			FB.login(function(response) {
+				//console.log("FB.login status=" + response.status + ", userId=" + response.authResponse.userID + ", token=" + response.authResponse.accessToken);
+				var fbresp = response;
+				if(response.status == "connected"){
+					//if(console != undefined) {
+					//	console.log("logincallback");
+					//	console.log(document.cookie);
+					//}
+											
+					social_init.resolve();
+					fb_connected.resolve(); 			
+					fb_login.resolve();
+					
+					// Trigger social event on body
+					$(document).ready(function(){
+						$("body").trigger("social", fbresp);
+						$("body").trigger("social-login", fbresp);	
+					});
+					
+					RT.Login.updatedFbLoggedIn = true;
+					
+					FB.api("/me/permissions", "get", {}, function(response) {
+						if (response && response.data) {
+							if (!!response.data[0].publish_actions) {
+								$('#socialSwitch').trigger('socialEnable');
+								$.post('/user/account/facebook-action-status/', {"permGranted": true});
+							}
+							else {
+								$('#socialSwitch').trigger('socialDisable');
+								$.post('/user/account/facebook-action-status/', {"permGranted": false});
+							}
+						}
+					});
+				}				
+			 }, {scope: scope});
+		});
+		
+		
+			
+			
+				// Called only once on page load
+				FB.getLoginStatus(function(response){
+					if(response.status == "connected"){
+		
+						social_init.resolve();
+						fb_connected.resolve(); 					
+						
+						$(document).ready(function(){
+							$("body").trigger("social");				
+						});				
+					}
+				});
+			
+		
+		
+		// Logout link handler
+		$(".logoutlink").live("click", function(){
+			_gaq.push(['_trackEvent', 'Facebook', 'Logout', 'Header Logout']);
+			
+			FB.getLoginStatus(function(response){
+				if(response.status == "connected"){
+					FB.logout(function(response) {
+						document.location='/logout/';
+					});
+				}
+				else{
+					document.location='/logout/';					
+				}
+			});
+			
+			return false; // Discontinue existing href action
+		});
+		
+	};
+	
+	// Load User navigation menu (top right) if logged in
+	social_init.done(function(){		
+		$.ajax( {
+			url : '/home/header/', dataType : "html",
+			data : null
+		}).success( function(response, status) {	
+			$("#user_navigation").html(response);			
+		});
+	});	
+	
+	
+	social_init.done(function(){		
+		$.ajax( {
+			url : '/home/social/', dataType : "html",
+			data : null
+		}).success( function(response, status) {	
+			$("#socialBar").html(response);
+			$("#socialBar").find("[comp]").comp();
+		});
+	});	
+	
+
+	(function($){		
+		// Async loading of all.js
+		var e = document.createElement('script'); e.async = true;
+		e.src = document.location.protocol +
+		   '//connect.facebook.net/en_US/all.js';
+		 document.getElementById('fb-root').appendChild(e);
+		
+		// Async loading of plusone.js	
+	    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	    po.src = 'https://apis.google.com/js/plusone.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+
+		
+		/** JS Driven Hover Delay using HoverIntent **/
+		var hoverConfig = {    
+	   			over: function(){
+	   				$(this).addClass('hover');
+	   				$('#searchformnew .autocomplete').hide();	
+	   			},     
+	   			timeout: 200,    
+	   			out: function(){
+	   				$(this).removeClass('hover');
+	   			}     
+		};	
+		$('.drop_menu > li').removeClass("no-js").hoverIntent(hoverConfig);
+	
+	})(jQuery);
+	
+	$("#header_login_link").click(function(e){
+		e.preventDefault();
+		e.stopPropagation();
+		
+		if($("#loginBox").length == 0){
+			var loginEle = $("<div id='loginBox' style='display:none;'></div>");
+			loginEle.append("<iframe id='loginIframe' src='https://www.rottentomatoes.com/user/account/login-iframe/' frameborder='0' scrolling='no' style='width: 700px; height: 320px;'></iframe>");			
+			$("body").append(loginEle);
+			
+			$('#loginBox').dialog({ 
+				modal: true, 
+				title: "Log In to Rotten Tomatoes",
+				height: 420,
+				width: 760,
+				zIndex: 65531,
+				//autoOpen: false,
+				dialogClass: "rt-theme"
+			});
+			
+			/* -- CSS and JS statically loaded --
+			// Load CSS
+			if(document.createStyleSheet)
+				document.createStyleSheet("");
+			else
+				$("head").append("<link rel='stylesheet' href='' type='text/css' />");
+			
+			
+			// Load JS
+			$.getScript("//images.rottentomatoescdn.com/js/jquery/ui/ui-1.8.7.custom.min.js", function(){
+
+			});
+			*/
+		}
+		else{
+			$("#loginBox").dialog("open");
+		}		
+	});
+	
+
+</script>
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+	<div class="center leaderboard">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="leaderboard_ad" class="page_ad"  >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+	
+	
+	
+		
+		
+		
+	
+	
+	
+		
+		
+		
+		
+			
+				
+				
+				
+				
+					
+					 
+					
+					
+						
+					
+					
+						
+						
+					
+				
+			
+			
+				
+				
+				
+				
+			
+			
+		
+	
+	
+	
+	
+		
+	
+	
+		
+		
+			
+			
+				
+				
+					
+					
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+		
+	
+	
+	
+	<!-- Begin DART Tag-->
+	<script type="text/javascript">
+	(function() {
+		if(typeof(encodedUrl) == "undefined"){
+		    var encodedUrl = encodeURI(location.pathname);
+		    var urlParam = "";
+		    if(urlParam != null && urlParam.length > 0){
+		        encodedUrl = encodeURI(urlParam);
+		    }
+		}
+		document.write('<scr'+'ipt src="//ad.doubleclick.net/N6327/adj/rt.movie/movie_page;pos=top;'+qcsegments+';tile=1;sz=1010x500,1010x250,1010x150,1010x95,1010x66,728x90;genre=documentary,drama;url='+ encodedUrl +';test=;ord=1337421465749?"></scr'+'ipt>');
+	})();
+	</script>
+	<noscript><a href="//ad.doubleclick.net/N6327/jump/rt.movie/movie_page;pos=top;tile=1;sz=1010x500,1010x250,1010x150,1010x95,1010x66,728x90;genre=documentary,drama;url=http%3A%2F%2Fwww.rottentomatoes.com%2Fm%2F10011268-oceans%2F;ord=1337421465749;?" target="_blank"><img src="http://ad.doubleclick.net/N6327/ad/rt.movie/movie_page;pos=top;tile=1;sz=1010x500,1010x250,1010x150,1010x95,1010x66,728x90;genre=documentary,drama;url=http%3A%2F%2Fwww.rottentomatoes.com%2Fm%2F10011268-oceans%2F;ord=1337421465749?" border="0" alt=""></a></noscript>
+	<!-- End DART Tag-->
+
+</div>
+	</div>
+
+
+<div class="body_head"></div>
+
+<div class="body_main" >
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="notify-container">
+	<div id="wts-bar" eventCategory="" tracking="DvdOther"> 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/logos/rottentomatoes_logo_small.png"  alt="Rotten Tomatoes Logo"/>
+		
+		
+		
+		
+		<span class="notify-text">Do you want to see &#145;Oceans (Disneynature's Oceans)&#146;?</span>
+					
+		<a href="javascript:void(0);" id="bar-want-to-see" class="interest rater wts" score="+"></a>
+		<a href="javascript:void(0);" id="bar-not-interested" class="interest rater ni" score="-"></a>	
+		<div id="bar-facebook-permission-popup" class="widget_container"></div>
+	</div>
+</div>
+
+
+	<div>
+		<div class="col col_695 col_first" comp="HashLoader" data-url="/m/10011268-oceans/theater?id=" data-param="theater" data-domtype="prepend">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box main_movie_area"  >
+	<div class="content_header">
+		
+			
+			
+					
+			
+		
+		
+		
+	</div>
+	<div class="content_body clearfix">
+		
+				<div class="movie_poster_area" style="display:block; float:left;">
+				
+					
+					
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/trailers/" >
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+	
+	
+	
+
+
+<img src="http://content9.flixster.com/movie/11/04/79/11047971_det.jpg" width="142" height="211" alt="Oceans (Disneynature's Oceans)" title="Oceans (Disneynature's Oceans)"  itemprop="image" />
+
+							<span class="play_button_big"></span>
+						</a>
+					
+					
+					
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<a class="trailer_action_button" href="/m/10011268-oceans/trailers/" onmousedown="javascript:_gaq.push(['_trackEvent', 'Movie Details', 'Play Trailer', 'Play Trailer']);"></a>
+
+<ul class="movie_links">
+	
+	
+	
+		<li>
+			<a class="netflix_link" id="addMe" href="javascript:void(0);" onclick="javascript:nflx.addToQueue('http://api.netflix.com/catalog/titles/movies/70118953', 10, 20, '5cw86twej4ss35upf27wwn37', 'disc', 'addMe');">Add to Netflix</a>
+			<script src="http://jsapi.netflix.com/us/api/js/api.js"></script>
+		</li>
+	
+
+	
+	   
+		<li class="promo_item itunes media_block">
+			<a class="media_block_image" href="http://click.linksynergy.com/fs-bin/stat?id=0AeVwD2efV0&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%3A%2F%2Fitunes.apple.com%2Fvideo%2Foceans-2009%2Fid377453761%3Fuo%3D5"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_itunes-sm.gif" alt="Oceans (Disneynature's Oceans)" /></a>
+			<div class="media_block_content">
+				
+					
+					
+					
+						<ul>
+							<li><a href="http://click.linksynergy.com/fs-bin/stat?id=0AeVwD2efV0&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http://itunes.apple.com/video/oceans-2009/id377453761?uo=5">EUR7.99 to buy</a></li>
+							<li><a href="http://click.linksynergy.com/fs-bin/stat?id=0AeVwD2efV0&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http://itunes.apple.com/video/oceans-2009/id377453761?uo=5">EUR2.99 to rent</a></li>
+						</ul>
+					
+				
+			</div>
+		</li>
+	
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="pinterestContainer"  style="margin-top:10px; display:block;">
+<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.rottentomatoes.com%2Fm%2F10011268-oceans%2F&media=http%3A%2F%2Fcontent9.flixster.com%2Fmovie%2F11%2F04%2F79%2F11047971_ori.jpg" class="pin-it-button" count-layout="horizontal">
+<img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+	
+	
+
+
+	
+	
+		
+			
+		
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gPlusOne"  style="margin-top:4px; display:block;">
+	<g:plusone size="medium" count="true" href="http://www.rottentomatoes.com/m/10011268-oceans/"></g:plusone>
+	<script type="text/javascript"> if(typeof gapi != 'undefined') gapi.plusone.go("gPlusOne"); </script>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="twitterContainer"  style="margin-top:4px; display:block;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.rottentomatoes.com/m/10011268-oceans/" data-count="horizontal" data-text="Oceans (Disneynature's Oceans)" data-via="RottenTomatoes"></a><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script><script>twttr.events.bind('tweet', function(event) {if (event) {_gaq.push(['_trackSocial', 'twitter', 'tweet', "/m/10011268-oceans/"]);}});</script>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+<div class="fb-like" data-send="false" data-layout="button_count" data-width="120" data-show-faces="false" data-href="http://www.rottentomatoes.com/m/10011268-oceans/"  style="margin-top: 5px; display:block;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Place this tag where you want the su badge to render -->
+<div class="stumbleUponContainer"  style="margin-top:5px; display:block;">
+<su:badge layout="1" location="http://www.rottentomatoes.com/m/10011268-oceans/"></su:badge>
+</div>
+<!-- Place this snippet wherever appropriate -->
+
+<script type="text/javascript">
+  (function() {
+    var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
+    li.src = 'https://platform.stumbleupon.com/1/widgets.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
+  })();
+</script>
+
+
+<br/>
+
+
+
+
+				</div>
+				
+				<div class="movie_content_area">
+					<h1 class="movie_title"><span itemprop="name">Oceans (Disneynature's Oceans) (2009)</span></h1>
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="meter_box left_door">
+	<div class="meter_box right_door" comp="HoverTip">
+		<div class="meter_critics critic_side">
+			<p class="help tomatometer_bar_help" sub="hover" tip="The percentage of Approved Tomatometer Critics who have given this movie a positive review"><span>tomatometer</span></p>
+			<ul class="critic_links" id="critic-links">
+				<li><a reviewtype="tMeter" href="#all-critics-numbers" id="all-critics-link" class="active">All Critics</a></li>
+				<li><a reviewtype="allTopCritics" href="#top-critics-numbers" id="top-critics-link">Top Critics</a></li>
+			</ul>
+			
+			<meta itemprop="awards" content="Certified Fresh" />
+			
+			<div id="all-critics-numbers" class="critic_side_container" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+				
+				
+				
+													
+						<a class="tomato_numbers" style="display:block;" href="#contentReviews">
+							
+							
+								
+								
+								
+							
+							
+							<span itemprop="ratingValue" id="all-critics-meter" class="meter certified numeric ">81</span>
+							<meta itemprop="bestRating" content="100" />
+							<meta itemprop="worstRating" content="0" />
+							<meta itemprop="name" content="Tomatometer Score" />
+							<p class="critic_stats">
+								Average Rating: <span>7.4/10</span><br />
+								Reviews Counted: <span itemprop="reviewCount">73</span><br />
+								Fresh: 59 | Rotten: 14
+							</p>
+						</a>
+						
+						<div class="tomato_consensus">
+							<div class="tomatometer certified"><span style="width:81%;"></span></div>
+							
+							<p class="critic_consensus">Oceans adds another visually stunning chapter to the Disney Nature library.</p>
+						</div>
+					
+					
+					
+				
+			</div>
+			<div id="top-critics-numbers" class="critic_side_container">
+				
+				
+				
+													
+						<div class="tomato_numbers">
+							
+							
+								
+								
+								
+							
+							
+							<span id="all-critics-meter" class="meter certified numeric ">86</span>
+							<p class="critic_stats">
+								Average Rating: <span>7.7/10</span><br />
+								Critic Reviews: 21<br />
+								Fresh: 18 | Rotten: 3</p>
+						</div>
+						
+						<div class="tomato_consensus">
+							<div class="tomatometer certified"><span style="width:86%;"></span></div>
+							
+							<p class="critic_consensus">Oceans adds another visually stunning chapter to the Disney Nature library.</p>
+						</div>
+					
+					
+					
+				
+			</div>
+		</div>
+		
+			
+		
+		<a class="fan_side" style="display:block;" href="#audience_reviews">
+			<p sub="hover" class="help tomatometer_bar_help" tip="The percentage of Rotten Tomatoes users who have rated this movie 3.5 stars or higher"><span>audience</span></p>
+			
+											
+				<span class="meter popcorn numeric ">70</span>
+				<p class="critic_stats">
+					<span class="subText liked_it" >liked it</span><br/>
+					Average Rating: 2.9/5<br/>
+					User Ratings: 97,143
+				</p>
+			
+			
+			
+		</a>
+		<div class="clearfix"></div>
+	</div>
+</div>
+<div class="meter_box_bottom left_side">
+	<div class="meter_box_bottom right_side">
+		<div class="critic_side"></div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					
+					<div comp="HashLoader" data-url="/m/10011268-oceans/review?id=" data-param="review" data-domtype="replace"></div>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h4 class="lineHeader"><span class="fl">My Rating</span></h4>
+<div id="mob_rating_widget" class="rating_widget large_rating_widget media_block" comp="SocialRating" data-movie="770805763" data-score="" data-source="RTM" data-fbperm="false" data-twshare="false" data-loggedin="false" data-appname="flixstertomatoes" data-temphack="true">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+<a href="javascript:void(0);"  class="media_block_image">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+
+
+
+	
+
+
+
+
+	<img src="http://images.rottentomatoescdn.com/images/redesign/user.none.tmb.jpg" width="50"   sub="img" class="fl" alt="" />
+
+</a>
+	<div class="media_block_content" id="userProfile" style="position:relative;">
+		<div class="clearfix">
+			<a href="#want_to_see" sub="wts" class="rating wts"></a> <a href="#not_interested" sub="ni" class="rating ni"></a> <span sub="star" class="rating stars score"></span>
+		</div>
+		<textarea  class="review clearfix " name="review" comp="ExpandableTextInput" sub="review" placeholder="Add a Review (Optional)"></textarea>
+		<div class="clearfix">
+			
+			<div class="fl">
+				<button sub="submit" class="post_button"></button>
+				<a sub="edit" href="#edit" class="text_button subtle smaller  hidden">Edit</a>
+				<span sub="wait" class="icon tiny" style="vertical-align:middle;"></span>
+			</div>
+		</div>
+		<p class="fr"><span sub="likeStatus" class="invisible like_status small subtle"><span sub="graphMessage hidden" style="display:none;"></span>Added to your Facebook Timeline. &mdash; <a sub="undoLike" href="javascript:void(0)">undo</a></span></p>
+	</div>
+	
+	
+	
+	<form sub="reviewForm" class="hidden invisible">
+        <input name="user" type="hidden" value="" />
+        <input name="url" type="hidden" value="http://www.rottentomatoes.com/m/10011268-oceans/" />
+        <input name="title" type="hidden" value="Oceans (Disneynature's Oceans)" />
+        <input name="posterUrl" type="hidden" value="http://content9.flixster.com/movie/11/04/79/11047971_tmb.jpg" />
+        <input name="synopsis" type="hidden" value="Winged Migration co-directors Jacques Cluzaud and Jacques Perrin re-team for this documentary produced for Walt Disney Studios' Disneynature banner..." />
+        
+        <input name="cast" type="hidden" value="Pierce Brosnan, Lancelot Perrin" />
+        <input name="rating" type="hidden" value="G" />
+        
+        <input name="release" type="hidden" value="Apr 22, 2010" />
+        
+        <input name="dvdRelease" type="hidden" value="Oct 19, 2010" />
+        
+    </form>
+    
+</div>
+
+<div comp="ReadReviewsFor" data-movie="770805763" data-title="Oceans (Disneynature's Oceans)" data-url="http://www.rottentomatoes.com/m/10011268-oceans/" data-appname="flixstertomatoes"></div>
+<div id="ogEnroll" class="hidden media_block">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--  fbActions: false -->
+ <!-- fbGraphPromptDate:  -->
+
+
+
+
+<div id="hiddenOgInfo" style="display:none;">facebookId=, fbActions=false, fbGraphPromptDate= ogEnrollDismiss= doPromptOpengraph=false</div>
+<script>
+	RT.MSK = {
+		'isEligible' : true,
+		'isEligibleEnroll' : true
+	}
+</script>
+
+
+
+	
+	
+	
+		
+	
+
+
+	
+	
+	
+		
+	
+	
+	
+
+
+
+
+<style>
+	.ogenroll {
+		background-position: 0px 0px;
+		background-repeat: no-repeat;
+	}
+	.ogenroll.ui-dialog {
+	    position: absolute;
+	}
+	.ogenroll.ui-dialog .ui-dialog-titlebar {
+	    position: relative;
+	}
+	.ogenroll.ui-dialog .ui-dialog-titlebar-close {
+	    height: 18px;
+	    margin: 20px 20px 0px;
+	    position: absolute;
+	    right: 0px;
+	    width: 19px;
+	}
+	.ogenroll.ui-dialog .ui-dialog-titlebar-close span {
+	    display: block;
+	    margin: 1px;
+	}
+	.ogenroll .ui-widget-header .ui-icon {
+	    background-image: url("http://images.rottentomatoescdn.com/images/jqueryui-rt-theme/ui-icons_cf4400_256x240.png");
+	}
+	.ogenroll .ui-icon-closethick {
+	    background-position: -96px -128px;
+	}
+	.ogenroll .ui-icon {
+	    background-repeat: no-repeat;
+	    overflow: hidden;
+	    text-indent: -99999px;
+	    height: 16px;
+		width: 16px;
+	}
+	.ogenroll.ui-dialog .ogEnrollContent p.text {
+		font-size:19px;
+		line-height:22px;
+		padding-bottom:20px;
+	}
+	.ogenroll.ui-dialog .ogEnrollContent .button {
+		background: url("http://images.rottentomatoescdn.com/images/social/addbutton.png") no-repeat scroll 0px 0px transparent;
+		font-size: 20px;
+	}
+	.ogenroll.ui-dialog .ogEnrollContent .button > span {
+		background-image: none;
+	}
+	.ogenroll.ui-dialog .ogEnrollContent label {
+		display: block;
+		padding-left: 25px;
+		text-indent: -24px;
+	}
+	.ogenroll.ui-dialog .ogEnrollContent input {
+		vertical-align: middle;
+		margin-right: 7px;
+	}
+</style>
+
+
+	
+	
+		<div id="ogprompt" class="hidden media_block" comp="OpenGraphPrompt">
+			<style>
+				
+					
+						
+						
+						.ogenroll.ui-dialog .ogEnrollContent .ogEnrollImage img  {
+							padding:0px 35px 100px 0px;
+						} 
+					
+					
+					
+				
+				.ogenroll {
+					background-image: url("http://images.rottentomatoescdn.com/images/social/opengraph-enroll-bg.png"); 
+				}
+				.ogenroll.ui-dialog .ogEnrollContent {
+					padding:70px 45px 0px;
+				} 
+				.ogenroll.ui-dialog .ogEnrollContent p.text {
+					padding-top:10px;
+				}
+				.ogenroll.ui-dialog .ogEnrollContent .ogEnrollInfo {
+					width:330px;
+				} 
+				.ogenroll.ui-dialog .ogEnrollContent .button {
+					padding: 8px 0 9px 112px;
+				}
+				.ogenroll.ui-dialog .ogEnrollContent .button > span {
+					padding: 0 108px 0 0;
+				}
+				.ogenroll.ui-dialog .ogEnrollContent .buttonWrapper {
+					margin: 50px 0px 25px;
+				}
+			</style>
+			<div class="ogEnrollContent media_block">
+				<div class="media_block_image ogEnrollImage">
+					<img src="http://images.rottentomatoescdn.com/images/social/opengraph-enroll-gift-open.png" />
+				</div>
+				<div class="media_block_content ogEnrollInfo">
+					<div class="ogEnrollText">
+						<img src="http://images.rottentomatoescdn.com/images/social/rtrewardstext.png" />
+						<p class="bold text">Connect with Facebook and get a full-length movie from Flixster!</p>
+						<div class="fb-facepile" data-width="320" data-max-rows="1"></div>
+					</div>
+					<div class="ogEnrollInput">
+						<p class="buttonWrapper">
+							<a class="button rt_fblogin" href="javascript:void(0);" sub="button"><span class="fb_button_text">Continue &gt;</span></a>
+						</p>
+						<label class="subtle"><input type="checkbox" id="newsletter" sub="newsletter" checked="checked" />Yes! I want to get the newsletter with the latest Rotten Tomatoes movie reviews, news and special features.</label>
+					</div>
+				</div>
+			</div>
+		</div>
+		<style>
+		    #mskPopup .giftContainer {position: relative; left: -40px; margin-right: -36px;}
+		    #mskPopup .startgift { background: url("http://images.rottentomatoescdn.com/images/msk/startgiftback.png") 143px 5px no-repeat; height: 438px; width: 381px;}
+		    #mskPopup .startgiftfront { position: absolute; z-index: 100; width: 381px; height: 438px; background: url("http://images.rottentomatoescdn.com/images/promos/startgiftfront.png") left 25px no-repeat;}
+		    #mskPopup .startgift img.startgiftposter { box-shadow: 0 2px 2px 0px #333; width: 160px; height: 240px; position: absolute; top: 0px; left: 152px; }      
+		    #mskPopup .giftText { margin-left: 390px; float: left; width: 350px; margin-top: 110px; }
+		    #mskPopup .orangeHeader {color: #dd5b05;}
+		    #mskPopup .startgiftposter.img { padding-bottom:155px; }
+		    #mskPopup .movieTitle { text-align:center; font-size:20px; line-height:23px; margin:10px 0px 50px; }
+		    .ogenroll.mskPrompt.ui-dialog .ogEnrollContent { padding:70px 0px 0px; }
+		    .ogenroll.mskPrompt.ui-dialog .ogEnrollContent .ogEnrollImage img { padding:0 70px 155px 138px; }
+		    .ogenroll.mskPrompt.ui-dialog .ogEnrollContent .ogEnrollInfo { width:333px; }
+		    .ogenroll.mskPrompt.ui-dialog .ogEnrollContent .buttonWrapper { margin:0 0 20px; }
+		    .ogenroll.mskPrompt.ui-dialog .ogEnrollContent .button { padding:8px 0 13px 0; font-size:18px; }
+		    .ogenroll.mskPrompt.ui-dialog .ogEnrollContent .button > span { padding:0 48px 0 55px; }
+		    .ogenroll.mskPrompt.ui-dialog .ogEnrollContent .ogEnrollInput a { cursor:pointer; }
+		    .ogenroll.mskPrompt.ui-dialog .ogEnrollContent p.text { line-height:24px; padding-top:20px; }
+		</style>
+		
+		<div id="mskPopup" class="hidden media_block" comp="MskPopup">
+			<div class="ogEnrollContent media_block">
+				<div class="media_block_image ogEnrollImage">
+					<div class="startgiftfront"></div>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+	
+	
+	
+
+
+<img src="http://content6.flixster.com/movie/10/92/12/10921224_det.jpg" width="180" height="266" alt="" title=""  id="mskPromoPoster" class="startgiftposter" />
+
+				</div>
+				<div class="media_block_content ogEnrollInfo">
+					<div class="ogEnrollText">
+						<img src="http://images.rottentomatoescdn.com/images/social/rtrewardstext.png" />
+						<p class="bold text center">The gift movie added to<br>your Flixster Collection is...</p>
+						<h3 class="center movieTitle">He's Just Not That Into You</h3>
+					</div>
+					<div class="ogEnrollInput center">
+						<p class="buttonWrapper">
+							<a class="button" href="javascript:void(0);" sub="button"><span class="fb_button_text">See My Flixster Collection</span></a>
+						</p>
+						<a sub="return">Return to previous page</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+
+<script>
+	Comp.OpenGraphPrompt = Comp.extend({
+		init: function(element) {
+			this._super(element);
+			this.buttonClicked = false;
+			
+			this.element.bind('ogPrompt', this.ogPrompt);
+			this.element.bind('gotPermission', this.onGotPermission);
+		},
+		$button_click : function(e) {
+			this.buttonClicked = true;
+			_gaq.push(['_trackEvent', 'Opengraph_4_F', 'Popup', 'Button']);
+		},
+		close : function(e, data, $newsletter) {
+			"$newsletter:nomunge";
+			if ($("#ogprompt").dialog("isOpen")) {
+				$("#ogprompt").dialog("close");
+				if (this.buttonClicked && $newsletter.is(':checked')) {
+					$.post('/features/action/newsletter/subscribe/', { });
+					_gaq.push(['_trackEvent', 'Opengraph_4_F', 'Popup', 'Subscribe']);
+				}
+			}
+		},
+		$newsletter_click : function(e) {
+			var checked = "off";
+			if ($(e.target).is(':checked')) {
+				checked = "on";
+			}
+			_gaq.push(['_trackEvent', 'Opengraph_4_F', 'Popup', 'Checkbox_' + checked]);
+		},
+		ogPrompt : function(e, data) {
+			var buttonClicked = this.buttonClicked;
+			this.element.removeClass("hidden").dialog({
+				modal:true,
+				height:514,
+				width:775,
+				zIndex:65531,
+				dialogClass:"ogenroll",
+				open: function(event, ui) {
+					$.post('/user/account/facebook-action-prompted/', { });
+					_gaq.push(['_trackEvent', 'Opengraph_4_F', 'Popup', 'Show']);
+				},
+				close:function(event, ui) {
+					if (!buttonClicked) {
+						_gaq.push(['_trackEvent', 'Opengraph_4_F', 'Popup', 'Close']);
+					}
+				}
+			});
+		},
+		onGotPermission : function(e) {
+			
+				
+				
+					this.close();
+				
+			
+			
+				if (this.buttonClicked) {
+					$('#mskPopup').trigger('mskFlow', { });
+				}
+			
+		}
+	});
+	Comp.MskPopup = Comp.extend({
+		init: function(element) {
+			this._super(element);
+			this.buttonClicked = false;
+			
+			this.element.bind('mskFlow', this.mskFlow);
+		},
+		$button_click : function(e) {
+			this.buttonClicked = true;
+			_gaq.push(['_trackEvent', 'Opengraph_4_F_MSK', 'Popup', 'Button']);
+			this.close();
+			window.location.href = "http://www.flixster.com/collection/"
+		},
+		$return_click : function(e) {
+			_gaq.push(['_trackEvent', 'Opengraph_4_F_MSK', 'Popup', 'Return']);
+			this.close();
+		},
+		close : function(e, data) {
+			if ($("#mskPopup").dialog("isOpen")) {
+				$("#mskPopup").dialog("close");
+			}
+		},
+		mskFlow : function(e) {
+			//alert("eligible: " + RT.MSK.isEligible);
+			if (RT.MSK.isEligible) {
+				// if they haven't already redeemed an MSK movie, send them through the default flow
+				_gaq.push(['_trackEvent', 'Opengraph_4_F', 'MSK', 'Load']);
+				_gaq.push(['_trackEvent', 'MSKPromo_ogEnroll_F', 'ogEnroll', 'default']);
+				this.close();
+				var url = "https://bk.flixster.com/msk/?movieId=&from=RT-ogEnroll_F"
+				// Can't use window.open() because browsers block it unless it was initiated by a user click. In this case, it's programmatic after the FB dialog closes 
+				window.location.href = "/locker/msk/redirect?m=&r=" + encodeURIComponent(url);
+			}
+			else {
+				// if they've already redeemed an MSK movie, just add the movie
+				$.post('/locker/msk/add/', { 'movieId' : 770679229, 'mskType' : 'F' });
+				
+				this.mskPrompt();
+			}
+		},
+		mskPrompt : function(e, data) {
+			var buttonClicked = this.buttonClicked;
+			this.element.removeClass("hidden").dialog({
+				modal:true,
+				height:514,
+				width:775,
+				zIndex:65531,
+				dialogClass:"ogenroll mskPrompt",
+				open: function(event, ui) {
+					_gaq.push(['_trackEvent', 'Opengraph_4_F_MSK', 'Popup', 'Show']);
+				},
+				close:function(event, ui) {
+					if (!buttonClicked) {
+						_gaq.push(['_trackEvent', 'Opengraph_4_F_MSK', 'Popup', 'Close']);
+					}
+				}
+			});
+		}
+	});
+	$(function() {
+		$(document).ready(function(){
+			var now = 1337421465852
+			var timesShown = 0;
+			var timestamp = now;
+			var showPrompt = false;
+
+			var ogCookie = RT.getCookie("ogenroll");
+			if (ogCookie) {
+				var ogCookieElems = ogCookie.split(",");
+				var ogCookieTimesShown = parseInt(ogCookieElems[0]);
+				var ogCookieTimestamp = Number(ogCookieElems[1]);
+				var cutoff = 1336806000000
+				if (ogCookieTimestamp < cutoff) {
+					showPrompt = true;
+				}
+				else if (ogCookieTimesShown < 1) {
+					showPrompt = true;
+					timesShown = ogCookieTimesShown;
+					timestamp = ogCookieTimestamp;
+				}
+			}
+			else {
+				showPrompt = true;
+			}
+			
+			if (showPrompt) {
+				timesShown++;
+				var ogCookieVal = timesShown + "," + timestamp;
+				RT.setCookie("ogenroll", ogCookieVal, 8);
+				
+				$('#ogprompt').trigger('ogPrompt', { });
+			}
+			
+		});
+	});
+	
+	$(document.body).bind("social", function(element, response) {
+		FB.api("/me/permissions", "get", {}, function(response) {
+			if (response && response.data) {
+				if (!!response.data[0].publish_actions) {
+					$("#ogprompt").trigger('gotPermission', { });
+				}
+			}
+		});
+	});
+</script>
+
+	
+	
+</div>
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h4 class="lineHeader"><span class="fl">Movie Info</span></h4>
+<div class="movie_info clearfix">
+	<p id="movieSynopsis" class="movie_synopsis" itemprop="description">
+		
+		
+		
+		
+		Winged Migration co-directors Jacques Cluzaud and Jacques Perrin re-team for this documentary produced for Walt Disney Studios' Disneynature banner and exploring the many mysteries of our planet's oceans. Almost three-quarters of the earth's surface is covered by oceans, yet strangely we seem to know more about deep space than the world of the sea. There's no question that the ocean has played a crucial role in the history and sustenance of humankind, but what secrets does the underwater world
+		
+			<span id="movieSynopsisRemaining" style="display:none;"> hold? Follow filmmakers Cluzaud and Perrin beneath the ocean waves as they seek out the answer to this and explore the many dangers and mysteries of the deep. ~ Jason Buchanan, Rovi</span>
+			<a href="javascript:void(0);" id="showMoreSynopsis" onmousedown="_gaq.push(['_trackEvent', 'User Profile', 'Ratings', 'Show More']);"></a>
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+	</p>
+	<div class="left_col">
+		<p>
+			<span class="content" comp="HoverTip">
+				
+				<a href="javascript:void(0);" sub="hover" tip=""><span itemprop="contentRating">G</span></a>, 
+			</span>
+			<span class="content"  content="162">1 hr. 43 min.</span>
+		</p>
+		
+		<p>
+			<span class="content">
+				
+					<a href="/movie/browser.php?movietype=1&genre=8"><span itemprop="genre">Documentary</span></a>, 
+				
+					<a href="/movie/browser.php?movietype=1&genre=9"><span itemprop="genre">Drama</span></a>
+				
+			</span>
+		</p>
+		
+		
+			<p itemprop="director" itemscope itemtype="http://schema.org/Person">
+				<label class="subtle">Directed By:</label>
+				<span class="content">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="" href="/celebrity/jacques_perrin/"  itemprop="url"><span itemprop="name">Jacques Perrin</span></a>
+					, 
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="" href="/celebrity/jacques_cluzaud/"  itemprop="url"><span itemprop="name">Jacques Cluzaud</span></a>
+					
+				</span>
+			</p>
+		
+		
+	</div>
+	<div class="right_col">
+		<p><label class="subtle">In Theaters:</label> <span class="content"><span itemprop="datePublished" content="2010-04-22">Apr 22, 2010 Wide</span></span></p>
+		<p><label class="subtle">On DVD:</label> <span class="content"><span>Oct 19, 2010</span></span></p>
+		<p><label class="subtle">US Box Office:</label><span class="content">$19.0M</span></p>
+		<p itemprop="productionCompany">Disneynature</p>
+	</div>
+</div>
+
+				</div>
+			
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+			
+			
+				
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div id="friend_reviews"></div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+			
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box " id="photos_videos" >
+	<div class="content_header">
+		
+			
+			
+				<h3><a href="/m/10011268-oceans/trailers/">Oceans (Disneynature's Oceans) Trailer</a> &amp; Photos</h3>	
+			
+		
+		
+		
+	</div>
+	<div class="content_body clearfix">
+		
+		<div class="photos">
+			<a class="see_all_link" href="/m/10011268-oceans/pictures/">More Photos (27)</a>
+			<ul class="movie_pictures">
+				
+				<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+	
+
+
+
+<a href="/m/10011268-oceans/pictures/27/"  class=""  startSlideshow="false" highlighted="true"><img class="movie_thumbnail" src="http://content8.flixster.com/rtmovie/65/09/65098_tmb.jpg" /></a>
+</li>
+				
+				<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+	
+
+
+
+<a href="/m/10011268-oceans/pictures/26/"  class=""  startSlideshow="false" highlighted="true"><img class="movie_thumbnail" src="http://content8.flixster.com/rtmovie/65/08/65086_tmb.jpg" /></a>
+</li>
+				
+				<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+	
+
+
+
+<a href="/m/10011268-oceans/pictures/25/"  class=""  startSlideshow="false" highlighted="true"><img class="movie_thumbnail" src="http://content8.flixster.com/rtmovie/65/07/65074_tmb.jpg" /></a>
+</li>
+				
+				<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+	
+
+
+
+<a href="/m/10011268-oceans/pictures/24/"  class=""  startSlideshow="false" highlighted="true"><img class="movie_thumbnail" src="http://content6.flixster.com/rtmovie/65/06/65060_tmb.jpg" /></a>
+</li>
+				
+			</ul>
+		</div>
+		<div class="videos">
+			<a class="see-all_link" href="/m/10011268-oceans/trailers/">More Trailers and Videos (10)</a>
+			<ul class="movie_clips">
+				<li>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="position:relative;">
+	<a href="/m/10011268-oceans/trailers/11017242"  id="thumbnail_trailer_link_httpcontentinternetvideoarchivecomcontentphotos617025917242jpg10" class="videoLink" alt="Oceans (Disneynature's Oceans)">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://content.internetvideoarchive.com/content/photos/6170/25917242_.jpg" alt="Oceans" width="106" height="80"  />
+
+
+		<span style="position:absolute;bottom:10px;right:8px;" class='play_button'></span>
+	</a>
+	
+	
+</div>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/trailers/11017242" >Oceans</a><br />
+					<span class="subtle">May 5, 2009</span>
+				</li>
+			
+				<li>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="position:relative;">
+	<a href="/m/10011268-oceans/trailers/11109418"  id="thumbnail_trailer_link_httpcontentinternetvideoarchivecomcontentphotos674728340441jpg9" class="videoLink" alt="Oceans (Disneynature's Oceans)">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://content.internetvideoarchive.com/content/photos/6747/28340441_.jpg" alt="Oceans Swimming Penguins" width="106" height="80"  />
+
+
+		<span style="position:absolute;bottom:10px;right:8px;" class='play_button'></span>
+	</a>
+	
+	
+</div>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/trailers/11109418" >Oceans: Swimming Penguins</a><br />
+					<span class="subtle">Jun 4, 2010</span>
+				</li>
+			</ul>
+		</div>
+	
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+.cast .show_more_link:after { content:url('http://images.rottentomatoescdn.com/images/icons/expand_arrow_down.gif'); padding-left:2px; }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box cast" id="cast-info" >
+	<div class="content_header">
+		
+			
+			
+				<h3>Cast</h3>	
+			
+		
+		
+		
+	</div>
+	<div class="content_body clearfix">
+		
+		<ul>
+			
+				
+				
+				
+				<li class="left_column"  itemprop="actors" itemscope itemtype="http://schema.org/Person" >
+					<div>
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="" href="/celebrity/pierce_brosnan/" >
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+		
+		<img src="http://content6.flixster.com/rtactor/40/33/40332_tmb.jpg" width="50" alt="Pierce Brosnan"  itemprop="image" alt="Pierce Brosnan" class="actorThumb medium" />
+	
+	
+	
+
+
+						</a>
+					</div>
+					<div >
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="" href="/celebrity/pierce_brosnan/"  itemprop="url"><span itemprop="name">Pierce Brosnan</span></a>
+						
+						<span class="characters"><br/>Narrator</span>
+					</div>
+				</li>
+			
+				
+				
+				
+				<li class=""  itemprop="actors" itemscope itemtype="http://schema.org/Person" >
+					<div>
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="" href="/celebrity/lancelot_perrin/" >
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+		
+		
+		
+		<img src="http://images.rottentomatoescdn.com/images/redesign/actor.default.tmb.gif" width="50" alt="Lancelot Perrin"  itemprop="image" alt="Lancelot Perrin" class="actorThumb medium" />
+	
+
+
+						</a>
+					</div>
+					<div >
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="" href="/celebrity/lancelot_perrin/"  itemprop="url"><span itemprop="name">Lancelot Perrin</span></a>
+						
+						<span class="characters"><br/>The Boy</span>
+					</div>
+				</li>
+			
+		</ul>
+		
+	
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.cl { clear: left; }
+.cr { clear: right; }
+#reviews {
+	width: 100%;s
+	overflow: hidden;
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box " id="contentReviews" >
+	<div class="content_header">
+		
+			
+			
+				<h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/reviews/" >Critic Reviews for Oceans (Disneynature's Oceans)</a>
+</h3>	
+			
+		
+		
+		
+	</div>
+	<div class="content_body clearfix">
+		
+	
+	
+	<p>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/reviews/" >All Critics (75)</a>
+
+		| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/reviews/?type=top_critics" >Top Critics (21)</a>
+ 
+		| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/reviews/?sort=fresh" >Fresh (60)</a>
+
+		| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/reviews/?sort=rotten" >Rotten (14)</a>
+ 
+		| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/reviews/?type=dvd" >DVD (5)</a>
+ 
+	</p>
+	
+	
+	
+	<div id="reviews" comp="HoverTip">
+				
+		
+		
+	
+				
+		
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble top_critic fl cl" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div  class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>Visually [it's] quite seductive.</p>
+				<div class="small">
+					<span class="fr subtle">April 26, 2010</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://bventertainment.go.com/tv/buenavista/atm/index.html"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: At the Movies" alt="Source: At the Movies"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1881517"    >Comment (1)</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://content6.flixster.com/critic/17/1788_tmb.gif" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/michael-phillips-11845/" class="" >Michael Phillips</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">At the Movies</div>					
+				
+			
+			<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/tomato/ico_topcritic_star.png"  alt="Top Critic Icon" border="0"/>Top Critic</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble top_critic fr cr" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div  class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>Oh, it's amazing.</p>
+				<div class="small">
+					<span class="fr subtle">April 26, 2010</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://bventertainment.go.com/tv/buenavista/atm/index.html"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: At the Movies" alt="Source: At the Movies"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1881516"    >Comment</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://content6.flixster.com/critic/16/1628_tmb.gif" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/ao-scott/" class="" >A.O. Scott</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">At the Movies</div>					
+				
+			
+			<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/tomato/ico_topcritic_star.png"  alt="Top Critic Icon" border="0"/>Top Critic</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble top_critic fl cl" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div  class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>Its visual splendor more than makes up for its intellectual poverty.</p>
+				<div class="small">
+					<span class="fr subtle">April 23, 2010</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://www.slate.com/id/2251656/"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: Slate" alt="Source: Slate"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1881294"    >Comment</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://content9.flixster.com/critic/22/2239_tmb.jpg" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/dana-stevens/" class="" >Dana Stevens</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">Slate</div>					
+				
+			
+			<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/tomato/ico_topcritic_star.png"  alt="Top Critic Icon" border="0"/>Top Critic</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble top_critic fr cr" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div sub="hover" tip="Original Score: 4/4" class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>There are life-and-death dramas, moments of playfulness and tenderness, which create an ever-increasing sense of wonder.</p>
+				<div class="small">
+					<span class="fr subtle">April 23, 2010</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://www.theglobeandmail.com/news/arts/movies/oceans-dive-into-a-masterpiece/article1542297/"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: Globe and Mail" alt="Source: Globe and Mail"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1881275"    >Comments (2)</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://content7.flixster.com/critic/16/1681_tmb.jpg" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/liam-lacey/" class="" >Liam Lacey</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">Globe and Mail</div>					
+				
+			
+			<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/tomato/ico_topcritic_star.png"  alt="Top Critic Icon" border="0"/>Top Critic</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble top_critic fl cl" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div sub="hover" tip="Original Score: 4/5" class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>Horseshoe crabs scuttle like possessed Nazi helmets and a school of fish morphs from dreidel to disco ball, as if choreographed by Busby Berkeley.</p>
+				<div class="small">
+					<span class="fr subtle">April 23, 2010</span>
+					
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1881273"    >Comment</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://content8.flixster.com/critic/17/1766_tmb.jpg" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/jeannette-catsoulis/" class="" >Jeannette Catsoulis</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">New York Times</div>					
+				
+			
+			<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/tomato/ico_topcritic_star.png"  alt="Top Critic Icon" border="0"/>Top Critic</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble top_critic fr cr" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div sub="hover" tip="Original Score: 4.5/5" class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>Oceans is more of a random collection of images from the deep. But, boy, what images.</p>
+				<div class="small">
+					<span class="fr subtle">April 23, 2010</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://www.dallasnews.com/sharedcontent/dws/ent/movies/reviews/stories/DN-oceans_0422gd.State.Edition1.ddc06d.html"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: Dallas Morning News" alt="Source: Dallas Morning News"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1881261"    >Comments (4)</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://images.rottentomatoescdn.com/images/redesign/user.none.tmb.jpg" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/cary-darling/" class="" >Cary Darling</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">Dallas Morning News</div>					
+				
+			
+			<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/tomato/ico_topcritic_star.png"  alt="Top Critic Icon" border="0"/>Top Critic</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble  fl cl" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div sub="hover" tip="Original Score: B+" class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>Oceans contains some of the most beautiful imagery ever seen in a feature-length documentary.</p>
+				<div class="small">
+					<span class="fr subtle">May 25, 2011</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://www.thefilmpie.com/index.php?option=com_content&view=article&id=2087&Itemid=53"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: ABC Radio Brisbane" alt="Source: ABC Radio Brisbane"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1987693"    >Comment</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://content8.flixster.com/critic/22/2258_tmb.jpg" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/matthew-toomey/" class="" >Matthew Toomey</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">ABC Radio Brisbane</div>					
+				
+			
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble  fr cr" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div  class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>New technology has helped these filmmakers to build new tools for underwater cinematography that enables them to be more flexible, faster in the water, which is how they captured profile footage of dolphins speeding through the water, for example</p>
+				<div class="small">
+					<span class="fr subtle">May 21, 2011</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://www.urbancinefile.com.au/home/view.asp?a=17828&s=Reviews"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: Urban Cinefile" alt="Source: Urban Cinefile"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1987399"    >Comment</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://content9.flixster.com/critic/14/1499_tmb.gif" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/andrew-l-urban/" class="" >Andrew L. Urban</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">Urban Cinefile</div>					
+				
+			
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble  fl cl" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div  class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>Enthralling, enlightening, meditative and often humorous, this is a wonderful documentary about the oceans and those who live within it</p>
+				<div class="small">
+					<span class="fr subtle">May 21, 2011</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://www.urbancinefile.com.au/home/view.asp?a=17828&s=Reviews"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: Urban Cinefile" alt="Source: Urban Cinefile"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1987398"    >Comment</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://content8.flixster.com/critic/15/1502_tmb.gif" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/louise-keller/" class="" >Louise Keller</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">Urban Cinefile</div>					
+				
+			
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble  fr cr" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div sub="hover" tip="Original Score: 3.5/5" class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>A visually stunning plunge into the life aquatic; shame about the narration.</p>
+				<div class="small">
+					<span class="fr subtle">May 18, 2011</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://www.sbs.com.au/films/In_Cinemas/movie/11556/Oceans"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: sbs.com.au" alt="Source: sbs.com.au"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1986732"    >Comment</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://content6.flixster.com/critic/22/2260_tmb.jpg" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/don-groves/" class="" >Don Groves</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">sbs.com.au</div>					
+				
+			
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble  fl cl" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div sub="hover" tip="Original Score: 4/5" class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>Compactly profound, appropriately humbling, and this is just the tip of the iceberg.</p>
+				<div class="small">
+					<span class="fr subtle">November 29, 2010</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://projectionbooth.blogspot.com/2010/11/short-cuts-anchorman-legend-of-ron.html#oceans"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: Projection Booth" alt="Source: Projection Booth"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1944056"    >Comment</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://content7.flixster.com/critic/22/2213_tmb.jpg" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/rob-humanick/" class="" >Rob Humanick</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">Projection Booth</div>					
+				
+			
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble  fr cr" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div sub="hover" tip="Original Score: 2/5" class="media_block_image icon small rotten"></div>
+			<div class="media_block_content">
+				<p>Where's SpongeBob SquarePants when you really need him?</p>
+				<div class="small">
+					<span class="fr subtle">November 27, 2010</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://www.filmthreat.com/reviews/28255/"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: Film Threat" alt="Source: Film Threat"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1943868"    >Comment</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://content9.flixster.com/critic/16/1683_tmb.gif" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/phil-hall/" class="" >Phil Hall</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">Film Threat</div>					
+				
+			
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble  fl cl" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div sub="hover" tip="Original Score: 8/10" class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>If the film does have a standout quality, it would be its meditativeness.</p>
+				<div class="small">
+					<span class="fr subtle">October 28, 2010</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://www.reeltalkreviews.com/browse/viewitem.asp?type=review&id=3508"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: ReelTalk Movie Reviews" alt="Source: ReelTalk Movie Reviews"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1939190"    >Comment</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://images.rottentomatoescdn.com/images/redesign/user.none.tmb.jpg" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/jeffrey-chen/" class="" >Jeffrey Chen</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">ReelTalk Movie Reviews</div>					
+				
+			
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble  fr cr" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div  class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>Oceans is bound to be a big hit among children, stoners, stoners' children, spinster stoners, and anyone that enjoy movies with immersive photography and intricate sound design.</p>
+				<div class="small">
+					<span class="fr subtle">October 24, 2010</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://www.slantmagazine.com/dvd/review/oceans/1840"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: Slant Magazine" alt="Source: Slant Magazine"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1938622"    >Comment</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://images.rottentomatoescdn.com/images/redesign/user.none.tmb.jpg" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/simon-abrams/" class="" >Simon Abrams</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">Slant Magazine</div>					
+				
+			
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble  fl cl" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div sub="hover" tip="Original Score: A-" class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>Stunning images of some of the most breathtaking and fascinatingly odd creatures of the sea. No cute story added, or needed.</p>
+				<div class="small">
+					<span class="fr subtle">June 28, 2010</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://www.madaboutmovies.org"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: Spectrum (St. George, Utah)" alt="Source: Spectrum (St. George, Utah)"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1891031"    >Comment (1)</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://content7.flixster.com/critic/21/2153_tmb.jpg" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/bruce-bennett/" class="" >Bruce Bennett</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">Spectrum (St. George, Utah)</div>					
+				
+			
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble  fr cr" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div sub="hover" tip="Original Score: 3.5/4" class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>a beautiful--at times breathtaking--visual examination of the undersea world</p>
+				<div class="small">
+					<span class="fr subtle">May 24, 2010</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://www.qnetwork.com/?page=review&id=2376"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: Q Network Film Desk" alt="Source: Q Network Film Desk"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1885763"    >Comment (1)</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://content6.flixster.com/critic/15/1588_tmb.gif" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/james-kendrick/" class="" >James Kendrick</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">Q Network Film Desk</div>					
+				
+			
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble  fl cl" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div sub="hover" tip="Original Score: A" class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>Fantastic creatures, fantastic photography</p>
+				<div class="small">
+					<span class="fr subtle">May 16, 2010</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://www.lariat.org/AtTheMovies/new/oceans.html"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: Laramie Movie Scope" alt="Source: Laramie Movie Scope"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1884695"    >Comments (2)</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://content8.flixster.com/critic/20/2026_tmb.jpg" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/robert-roten/" class="" >Robert Roten</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">Laramie Movie Scope</div>					
+				
+			
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble  fr cr" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div sub="hover" tip="Original Score: 3.5/4" class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>Oceans presents the superb underwater photography and cool critters we have come to love from the best nature documentaries.</p>
+				<div class="small">
+					<span class="fr subtle">May 12, 2010</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://www.atlanticcityweekly.com/arts-and-entertainment/movie-reviews/Dive-In-93415224.html"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: Atlantic City Weekly" alt="Source: Atlantic City Weekly"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1883861"    >Comments (2)</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://content6.flixster.com/critic/17/1768_tmb.jpg" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/lori-hoffman/" class="" >Lori Hoffman</a>
+</div>
+			
+				
+					<a target="_blank" class="italic" href="http://www.acweekly.com">Atlantic City Weekly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Atlantic City Weekly" alt="Source: Atlantic City Weekly"/></a>
+										
+				
+			
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble  fl cl" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div sub="hover" tip="Original Score: 3/5" class="media_block_image icon small fresh"></div>
+			<div class="media_block_content">
+				<p>Quite the beautiful picture to look at, but the person who swims with the Great White is totally insane. </p>
+				<div class="small">
+					<span class="fr subtle">May 6, 2010</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://www.newsreview.com/reno/content?oid=1419690"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: Reno News and Review" alt="Source: Reno News and Review"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1883003"    >Comment (1)</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://content8.flixster.com/critic/19/1922_tmb.jpg" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/bob-grimm/" class="" >Bob Grimm</a>
+</div>
+			
+				
+					
+					<div class="subtle italic">Reno News and Review</div>					
+				
+			
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="quote_bubble  fr cr" >
+
+	<div class="review_quote_top"></div>
+	<div class="review_quote">
+		
+			
+			
+			
+		
+		
+		<div class="quote_contents media_block">
+			<div sub="hover" tip="Original Score: 1/10" class="media_block_image icon small rotten"></div>
+			<div class="media_block_content">
+				<p>Could the script have been less informative? Could it have been more soporifically read than Pierce Brosnan's rendition? I don't think so.</p>
+				<div class="small">
+					<span class="fr subtle">May 1, 2010</span>
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+		<a href="http://www.tonymedley.com/2010/Oceans.htm"  target="_blank" rel="nofollow"  >Full Review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="Source: tonymedley.com" alt="Source: tonymedley.com"/></a>
+	
+	
+
+ | 
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/comments/?reviewid=1882448"    >Comments (5)</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="review_source media_block">
+		<img class="critic_thumb media_block_image" src="http://images.rottentomatoescdn.com/images/redesign/user.none.tmb.jpg" />
+		<div class="media_block_content">
+			<div class="bold">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+<a href="/critic/tony-medley/" class="" >Tony Medley</a>
+</div>
+			
+				
+					<a target="_blank" class="italic" href="http://www.tonymedley.com">tonymedley.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="tonymedley.com" alt="Source: tonymedley.com"/></a>
+										
+				
+			
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+		
+		
+		
+		
+		
+	
+	</div>
+	
+    <div class="clearfix"></div>
+    
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/reviews/"  class="fr">More Critic Reviews</a>
+ 
+	
+	
+	
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+	
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box " id="audience_reviews" >
+	<div class="content_header">
+		
+			
+			
+				<h3>Audience Reviews for Oceans (Disneynature's Oceans)</h3>	
+			
+		
+		
+		<div class="float_right">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/reviews/?type=user" >View All</a>
+</div>
+	</div>
+	<div class="content_body clearfix">
+		
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+<div class="quote_bubble  fl cl" >
+	<div class="review_quote_top"></div>
+
+								
+	
+	
+	
+	
+
+	<div id="quoteBubble906492753_770805763" class="review_quote_stretch audience_contents clearfix">
+		<div class="scoreWrapper"><span class="small rating stars score25"></span></div>
+		
+		<p>
+			I had high expectations for Oceans and they weren't met. After about 10 minutes I thought the movie was just starting off slow showing some images and then would dive deeper into some issues or facts. 20 minutes later I could see that this would never happen. Visually the movie is very good, with great footage of
+			
+				<span id="remainingText906492753_770805763" style="display:none;"> different species of marine life. However there is nothing more. They might as well not even have a narrator. Nothing he's telling us matters and sometimes doesn't even correspond to what we are watching on the screen. Honestly if this movie didn't have a narrator, I probably would give it three stars. But if it would have had better writing and addressed some actual interesting points I probably would be inclined to give it five stars as the footage is just that amazing. Really disappointing documentary.</span>
+				<a href="javascript:void(0);" id="showMoreTextLink906492753_770805763"></a>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+		</p>
+		
+		<span class="small fr subtle date">July 5, 2011</span>
+	</div>
+	
+	<div class="review_quote_bottom">
+		
+	</div>
+
+	<div class="review_source media_block">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+
+
+
+
+
+
+	<img src="http://content8.flixster.com/user/41/08/92/41089282_tmb.jpg" width="50"   class="media_block_image critic_thumb" alt="blkbomb" />
+
+
+		
+		<div class="media_block_content">
+			<div class="bold">
+			
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Melvin White
+			
+			</div>
+			
+			<p class="superreviewer"><span class="icon profile superreviewer"></span>Super Reviewer</p>
+			
+		</div>		 
+	</div>
+
+		
+</div>
+
+
+
+
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+<div class="quote_bubble  fr cr" >
+	<div class="review_quote_top"></div>
+
+								
+	
+	
+	
+	
+
+	<div id="quoteBubble804169418_770805763" class="review_quote_stretch audience_contents clearfix">
+		<div class="scoreWrapper"><span class="small rating stars score50"></span></div>
+		
+		<p>
+			An ecological drama/documentary, filmed throughout the globe. Part thriller, part meditation on the vanishing wonders of the sub-aquatic world. Amazing! I loved this documentary. I saw some things I had never seen before. I was impress on how many different ways and shapes God has created these animals that live in the
+			
+				<span id="remainingText804169418_770805763" style="display:none;"> ocean. So many things relate to us and our directly affected by what we do that makes us think if we do enough to contribute. Highly recomended, watch it with your kids, make them learn while there young.Winged Migration co-directors Jacques Cluzaud and Jacques Perrin re-team for this documentary produced for Walt Disney Studios' Disneynature banner and exploring the many mysteries of our planet's oceans. Almost three-quarters of the earth's surface is covered by oceans, yet strangely we seem to know more about deep space than the world of the sea. There's no question that the ocean has played a crucial role in the history and sustenance of humankind, but what secrets does the underwater world hold? Follow filmmakers Cluzaud and Perrin beneath the ocean waves as they seek out the answer to this and explore the many dangers and mysteries of the deep.</span>
+				<a href="javascript:void(0);" id="showMoreTextLink804169418_770805763"></a>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+		</p>
+		
+		<span class="small fr subtle date">April 29, 2010</span>
+	</div>
+	
+	<div class="review_quote_bottom">
+		
+	</div>
+
+	<div class="review_source media_block">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+	
+
+
+
+
+
+
+	<img src="http://content9.flixster.com/user/39/55/43/39554351_tmb.jpg" width="50"   class="media_block_image critic_thumb" alt="xXGiNoBiLiPRXx" />
+
+
+		
+		<div class="media_block_content">
+			<div class="bold">
+			
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manu Gino
+			
+			</div>
+			
+			<p class="superreviewer"><span class="icon profile superreviewer"></span>Super Reviewer</p>
+			
+		</div>		 
+	</div>
+
+		
+</div>
+
+
+
+
+				
+			
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+	
+	
+
+
+
+			
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box " id="quotesList" >
+	<div class="content_header">
+		
+			
+			
+				<h3>
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/quotes/" >Oceans (Disneynature's Oceans) Quotes</a>
+	
+	
+	
+	</h3>	
+			
+		
+		
+		<div class="float_right">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/quotes/" >View All</a></div>
+	</div>
+	<div class="content_body clearfix">
+		
+	<p></p>
+
+	
+
+	<ul class="quoteList">
+		
+			
+			<li class="quote_item" data-factid="11132">
+				<ol>
+				
+				
+					<li><span class="bold quote_actor">Narrator: </span><span class="line">Down here, it&#039;s like Nature has given everything a try: every color, every way of life, every shape.</span></li>
+				
+				 
+				</ol>
+				<div class="quoteFooter">&ndash; Submitted by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+<a href="/user/id/912569062/" >Breanna M</a> (10 months ago)
+	 				
+					
+				</div>
+			</li>
+		
+	</ul>
+	
+
+	
+	<div class="submitThanks"></div>
+	<button id="OpenQuoteSubmitButton" class="button" type="button" comp="OpenDialogButton" style="display:none;"><span>Submit A Quote</span></button>
+	
+	
+	
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+
+<div id="quoteContainer" movieid="770805763" userid="-1" comp="Popup" style="display:none;">
+<h3>Submit a Quote from 'Oceans (Disneynature's Oceans)'</h3>
+<p>A quote can be a single line from one character or a memorable dialog between several characters. Please make your quotes accurate. Quotes will be submitted for approval by the RT staff.</p>
+<div style="margin-bottom: 15px; margin-top:10px;">
+<div style="float:left; margin-left: 20px; margin-right: 10px;"><i>Example:</i></div>
+<div style="float:left; margin-right: 10px;">
+	<span class="bold quote_actor">Luke:</span> Alright. I'll give it a try.<br>
+	<span class="bold quote_actor">Yoda:</span> No. Try not. Do or do not. There is no try.
+</div>
+<br style="clear: both;" />
+</div>
+
+
+<table>
+	<thead>
+	<tr>
+		<th>Character</th>
+		<th>Quote</th>
+		<th></th>
+	</tr>
+	
+	</thead>
+	<tbody>
+
+	<tr comp="QuotedLine" class="rowtemplate hidden">
+		<td class="character">
+		 	<select class="charselect filled">	 	
+		 					 			
+		 				<option value="739775">Narrator</option>			 			
+		 					 			
+		 				<option value="739776">The Boy</option>			 			
+		 		
+		 	</select>
+		</td>
+		<td><textarea class="quoteedit" sub="editarea" rows="1" cols="45" default="Enter quote here...">Enter quote here...</textarea></td>
+		<td><a href="javascript:void(0);" sub="deletelink" class="deletelink" >Delete</a></td>
+	</tr>	
+	</tbody>	
+</table>
+
+<div class="addLink"><a href="javascript:void(0);" sub="addlink">Add another line to this dialog...</a></div>
+
+<div class="dummyleft">
+</div>
+
+<div class="bottomele">
+	<button class="button" type="button" sub="submitlink"><span>Submit</span></button> &nbsp; 	
+	<a href="javascript:void(0);" sub="cancel">Close</a> &nbsp; <span id="submitted"></span> 	
+</div>
+
+<div class="folddown">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box " id="collectFold" >
+	<div class="content_header">
+		
+			
+			
+				<h3>Let me know when its ready...</h3>	
+			
+		
+		
+		
+	</div>
+	<div class="content_body clearfix">
+		
+	<p>We can send you a notification e-mail when your quote has been reviewed by our editors.</p>
+	
+	<div class="manualnotify">
+	<input class="example" id="emailbox" type="text" value="email@example.com" sub="emailbox"></input>  
+	<button class="button" type="button" sub="emailsubmit"><span>Alert me</span></button>
+	</div>
+	
+	
+	<table class="ortable">
+	<tr class="divider"><td></td><td></td></tr>
+	<tr class="or"><td colspan=2>or</td></tr>
+	<tr class="divider"><td></td><td></td></tr>
+	</table>
+	
+	<div class="fbnotify">	
+	<fb:login-button scope="email" onlogin="$.post('/user/account/facebook-resync-user-data/'); $('#collectFold').slideUp(); _gaq.push(['_trackEvent', 'UserGenContent', 'Quotes', 'FacebookEmailSuccess']);">Use my Facebook e-mail to contact me</fb:login-button>
+	</div>
+	
+	<div class="closeele">
+	<a href="javascript:void(0);" sub="foldup">Hide</a>
+	</div>
+
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+
+</div>
+
+</div>
+
+<div id="lightbox" style="display: none;"></div>
+
+<script>
+
+Comp.QuotedLine = Comp.extend({
+	init : function(element) {		
+		this._super(element); 
+	},
+	$editarea_focus : function(e, $editarea){
+		if ($editarea.val() == "Enter quote here...") 
+			$editarea.val("");	
+	},
+	$editarea_blur : function(e, $editarea){			
+		if ($editarea.val() == "") 
+			$editarea.val("Enter quote here...");
+	},
+	$editarea_keyup:  function(e, $editarea){
+		
+	    var strseg = $editarea.val().split("\n");
+	    var linecount = 0;
+	    if(strseg.length == 0){
+	    	linecount=1;
+	    }
+	    else{
+		    for(var i=0; i<strseg.length ; i++){
+		      linecount += Math.ceil( strseg[i].length / $editarea.attr("cols") ); // take into account long lines
+		    }
+	    }
+		$editarea.attr("rows", linecount==0? 1 : linecount);		
+	},
+	$deletelink_click : function(e){
+		if($("#quoteContainer .active").size() > 1)
+			this.element.remove();
+	}
+});
+
+Comp.Popup = Comp.extend({
+	init : function(element) {		
+		this._super(element);
+		
+		// Custom Events
+		$(this.element).bind('showinit', this.showInit);
+		$(this.element).bind('hide', this.hide);
+	},
+	showInit: function(e){
+		// Remove all existing rows
+		$(this.element).find('tbody tr.active').fadeOut(1000).remove();
+		
+		// Add first row
+		this.addrow();
+		
+		// Relocate to bottom of body and show dialog
+		$("#lightbox").appendTo("body").show();
+		$("#quoteContainer").appendTo("body").show();
+		
+	},	
+	hide: function(e){
+		$("#lightbox").hide();
+		$("#quoteContainer").hide();
+	},	
+	$addlink_click : function(e){
+		this.addrow();
+	},
+	addrow: function(){
+		// Select template row
+		row=$('.rowtemplate');
+		
+		// Copy row
+		var clone = row.clone();
+		clone.removeClass("rowtemplate");
+		clone.insertBefore(row);
+		clone.removeClass("hidden");
+		clone.addClass("active");
+		clone.comp(); // Bind component
+		
+		row.find('textarea').blur();
+		clone.find('select').focus();	
+	},
+	$cancel_click : function(e){
+		$("#collectFold").slideUp();
+		$("#lightbox").hide();
+		$("#quoteContainer").hide();
+		$("#submitted").hide();
+	},
+	$submitlink_click: function(e){
+		var params = {};	
+		var rowcount=0;
+		var emptyrow;
+		
+		params['factid']=$('#quoteContainer').attr('factid');
+		params['movieid']=$('#quoteContainer').attr('movieid');
+		
+		$('#quoteContainer tbody tr.active').each(function(index){
+			 
+			params['cid_'+index]=$(this).find('.charselect').val();
+			params['str_'+index]=$(this).find('.quoteedit').val();
+			rowcount++;
+			
+			if(params['str_'+index] == 'Enter quote here...')
+				emptyrow=true;
+		});
+		
+		params['cnt']=rowcount;
+
+		if(emptyrow){
+			$("#submitted").css('color', 'red').text("Quote contains empty lines. Please edit and try again.").fadeIn(300);
+		}
+		else{
+			$.ajax({
+				url:'/m/submit-rtquote',
+				type: 'post',
+				data: params, 
+				success: $.proxy(function() {
+					$("#submitted").css('color', 'green').text("Quote Submitted! Add another one or click 'Close' to exit.").fadeIn(300);								
+					$("#quoteContainer").delay(2000).trigger("showinit");
+					
+					// Show email collect drop down only once. Does not execute if email already stored (#collectFold not rendered at all) 				
+					if($("#collectFold").attr("shown") != "true"){
+						$("#collectFold").attr("shown", "true").slideDown();
+					}
+					
+					// Show thanks prompt in quotesList
+					$("#quotesList .submitThanks").text("Thanks! The quote(s) you submitted are pending review.").show();
+					
+					_gaq.push(['_trackEvent', 'UserGenContent', 'Quotes', 'SubmitSuccess']);
+					  
+				}, this), 
+				error: $.proxy(function(){
+					$("#submitted").css('color','red').text("Submit Error. Please try again later.").fadeIn(300);
+					_gaq.push(['_trackEvent', 'UserGenContent', 'Quotes', 'SubmitFail']);
+				}, this)	
+			});
+		}
+	},
+	$emailbox_focus: function(e, $emailbox){
+		// Remove example text when user clicks on email input box
+		if($emailbox.val()=="email@example.com"){
+			$emailbox.val("");
+			$emailbox.removeClass('example');
+		}
+	},
+	$emailsubmit_click: function(e){
+		// User types in email
+		$.ajax({
+			url: "/test/action/submit-email",
+			type: "post",
+			data: {email: $('#emailbox').val()},
+			success: function() {
+				$("#submitted").css('color','green').text("E-mail alert enabled. Add another quote or click 'Close' to exit.").fadeIn(300);			
+				$("#collectFold").slideUp();
+				
+				_gaq.push(['_trackEvent', 'UserGenContent', 'Quotes', 'WriteInEmailSuccess']);
+			}, 
+			error: function(){
+				$("#submitted").css('color', 'red').text("E-mail error. Quote will still be processed. Add another quote or click 'Close' to exit.").fadeIn(300);
+				$("#collectFold").slideUp();
+			}	
+		});
+	},
+	$foldup_click: function(e){		
+		$("#collectFold").slideUp();
+	}
+	
+});
+
+
+Comp.OpenDialogButton = Comp.extend({
+	init : function(element) {		
+		this._super(element);
+		this.element.bind("click", this.onClick);
+		
+		if($("#quoteContainer").attr("userid") == -1){
+			
+			// Reveal button and elment when user logs in
+			$('body').bind('social', $.proxy(function(){
+				this.element.show();	
+				$("#quotesList").show();				
+			}, this));
+			
+			// Hide the button
+			//this.element.hide();
+			
+			// If list is empty, hide the whole widget until then
+			//if($("#quotesList").find(".empty").length != 0)
+			//	$("#quotesList").hide();
+		}
+		else{
+			this.element.show();
+		}
+	
+	},	
+	onClick : function(element){
+		
+		// Retract WTS bar. If not defined jquery will simply swallow command. No error produced.
+		$("#notify-container").fadeOut();
+		
+		_gaq.push(['_trackEvent', 'UserGenContent', 'Quotes', 'DialogOpen']);
+		 $("#quoteContainer").trigger("showinit");  
+	}
+});
+
+$(".reportlink").click(function(e){
+	e.preventDefault();
+	
+	var factid = $(this).parents(".quote_item").data("factid");
+	
+	$.ajax({url : "/facts/report/",
+		datatype: "html",
+		type: "GET",
+		data: {"factid": factid}
+	}).success(function(data){
+		
+		$("body").append(data);
+		//setTimeout ( '$("#learnmore_content").dialog("open")', 500 );	
+	});
+});
+
+
+</script>
+
+
+			
+		</div>
+		<div class="col col_300 col_last">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+			
+  			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+	
+	
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+	
+	
+		 
+		
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box " id="homepage_dvd_sidebar" >
+	<div class="content_header">
+		
+			
+			
+				<h3>DVD</h3>	
+			
+		
+		
+		
+	</div>
+	<div class="content_body clearfix">
+		
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+
+<h4>Top Rentals</h4>
+<table class="movie_list">
+	<tbody>
+		
+		<tr>
+			<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+			
+			
+			<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">29%</span>
+		
+		
+	
+	</span></td>
+			<td class="middle_col">
+				
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/the_vow_2012/" title="Channing Tatum and Rachel McAdams do their best with what they're given, but The Vow is too shallow and familiar to satisfy the di..." class=""  sub="hover">The Vow</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+			
+			
+			<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+tiny fresh"></span><span class="tMeterScore">93%</span>
+		
+		
+	
+	</span></td>
+			<td class="middle_col">
+				
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/mission_impossible_ghost_protocol/" title="Stylish, fast-paced, and loaded with gripping set pieces, the fourth Mission: Impossible is big-budget popcorn entertainment that ..." class=""  sub="hover">Mission: Impossible Ghost Protoc...</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+			
+			
+			<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+tiny fresh"></span><span class="tMeterScore">87%</span>
+		
+		
+	
+	</span></td>
+			<td class="middle_col">
+				
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/the_girl_with_the_dragon_tattoo/" title="Brutal yet captivating, The Girl With the Dragon Tattoo is the result of David Fincher working at his lurid best with total role c..." class=""  sub="hover">The Girl with the Dragon Tattoo</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+			
+			
+			<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">29%</span>
+		
+		
+	
+	</span></td>
+			<td class="middle_col">
+				
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/underworld_awakening/" title="There's more vapid action and less story in Underworld Awakening than previous installments, making the whole affair feel inconseq..." class=""  sub="hover">Underworld Awakening</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+			
+			
+			<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+tiny fresh"></span><span class="tMeterScore">85%</span>
+		
+		
+	
+	</span></td>
+			<td class="middle_col">
+				
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/chronicle/" title="It arrives during a glut of found-footage films, but Chronicle transcends its gimmicks with a smart script, fast-paced direction, ..." class=""  sub="hover">Chronicle</a>
+			</td>
+		</tr>
+		
+	</tbody>
+</table>
+<div class="movie_list_footer right"><a href="/dvd/top_rentals.php">More&hellip;</a></div>
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+	
+	
+
+
+	
+	
+		
+	
+
+<h4>New On DVD This Week</h4>
+<table class="movie_list">
+	<tbody>
+		
+		<tr>
+			<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+			
+			
+			<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+tiny fresh"></span><span class="tMeterScore">85%</span>
+		
+		
+	
+	</span></td>
+			<td class="middle_col">
+				
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/chronicle/" title="It arrives during a glut of found-footage films, but Chronicle transcends its gimmicks with a smart script, fast-paced direction, ..." class=""  sub="hover">Chronicle</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+			
+			
+			<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+tiny fresh"></span><span class="tMeterScore">79%</span>
+		
+		
+	
+	</span></td>
+			<td class="middle_col">
+				
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/the_grey_2012/" title="The Grey is an exciting tale of survival, populated with fleshed-out characters and a surprising philosophical agenda." class=""  sub="hover">The Grey</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+			
+			
+			<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">7%</span>
+		
+		
+	
+	</span></td>
+			<td class="middle_col">
+				
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/the_devil_inside/" title="The Devil Inside is a cheap, choppy unscary mess, featuring one of the worst endings in recent memory." class=""  sub="hover">The Devil Inside</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+			
+			
+			<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">2%</span>
+		
+		
+	
+	</span></td>
+			<td class="middle_col">
+				
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/one_for_the_money/" title="No consensus yet." class=""  sub="hover">One for the Money</a>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+			
+			
+			<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+	
+
+tiny fresh"></span><span class="tMeterScore">76%</span>
+		
+		
+	
+	</span></td>
+			<td class="middle_col">
+				
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/rampart_2010/" title="No consensus yet." class=""  sub="hover">Rampart</a>
+			</td>
+		</tr>
+		
+	</tbody>
+</table>
+
+
+<div class="movie_list_footer right"><a href="/dvd/new_releases.php">More&hellip;</a></div>
+
+		
+	
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+	
+				
+	
+
+
+			
+			
+		
+	
+
+
+
+
+				
+				
+			
+			
+			
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="halfpage_ad" class="page_ad">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+	
+	
+	
+		
+		
+		
+	
+	
+	
+		
+		
+		
+		
+			
+				
+				
+				
+				
+					
+					 
+					
+					
+						
+					
+					
+						
+						
+					
+				
+			
+			
+				
+				
+				
+				
+			
+			
+		
+	
+	
+	
+	
+	
+		
+		
+			
+			
+				
+						
+			
+				
+				
+					
+					
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+		
+	
+	
+	
+	<!-- Begin DART Tag-->
+	<script type="text/javascript">
+	(function() {
+		if(typeof(encodedUrl) == "undefined"){
+		    var encodedUrl = encodeURI(location.pathname);
+		    var urlParam = "";
+		    if(urlParam != null && urlParam.length > 0){
+		        encodedUrl = encodeURI(urlParam);
+		    }
+		}
+		document.write('<scr'+'ipt src="//ad.doubleclick.net/N6327/adj/rt.movie/movie_page;pos=top;'+qcsegments+';tile=2;sz=300x250,300x600;genre=documentary,drama;url='+ encodedUrl +';test=;ord=1337421465749?"></scr'+'ipt>');
+	})();
+	</script>
+	<noscript><a href="//ad.doubleclick.net/N6327/jump/rt.movie/movie_page;pos=top;tile=2;sz=300x250,300x600;genre=documentary,drama;url=http%3A%2F%2Fwww.rottentomatoes.com%2Fm%2F10011268-oceans%2F;ord=1337421465749;?" target="_blank"><img src="http://ad.doubleclick.net/N6327/ad/rt.movie/movie_page;pos=top;tile=2;sz=300x250,300x600;genre=documentary,drama;url=http%3A%2F%2Fwww.rottentomatoes.com%2Fm%2F10011268-oceans%2F;ord=1337421465749?" border="0" alt=""></a></noscript>
+	<!-- End DART Tag-->
+
+</div>
+
+				
+			
+						
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+	
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+	
+	
+		 
+		
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box "  >
+	<div class="content_header">
+		
+			
+			
+				<h3>Movies Like Oceans (Disneynature's Oceans)</h3>	
+			
+		
+		
+		
+	</div>
+	<div class="content_body clearfix">
+		
+				
+				
+					<div class="center col_p col_33">
+						<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/born_to_be_wild_2011/"  class="" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+	
+	
+	
+
+
+<img src="http://content9.flixster.com/movie/11/16/43/11164339_tmb.jpg" width="54" height="81" alt="Born To Be Wild" title="Born To Be Wild"  />
+</a></div>
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/born_to_be_wild_2011/"  class="" >Born To Be Wild</a>
+					</div>
+				
+				
+					<div class="center col_p col_33">
+						<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/1208882-cove/"  class="" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+	
+	
+	
+
+
+<img src="http://content8.flixster.com/movie/10/88/80/10888094_tmb.jpg" width="54" height="80" alt="The Cove" title="The Cove"  />
+</a></div>
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/1208882-cove/"  class="" >The Cove</a>
+					</div>
+				
+		
+	</div>
+	<div class="content_footer clearfix">
+		<div class="float_right">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/10011268-oceans/movies_like_10011268-oceans/"  class="" >View All</a></div>
+	</div>
+</div>
+
+
+	
+
+
+				
+	
+
+
+			
+			
+		
+	
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+	
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+	
+	
+		 
+		
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box " id="contentNews" >
+	<div class="content_header">
+		
+			
+			
+				<h3>Latest News for Oceans (Disneynature's Oceans)</h3>	
+			
+		
+		
+		
+	</div>
+	<div class="content_body clearfix">
+				
+		
+			<p class="clearfix">
+				<h5>April 23, 2010:</h5>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/m/back_up_plan/news/1881038/critics_consensus_the_back-up_plan_is_second_rate/" title="Source: Rotten Tomatoes"   class="icon">Critics Consensus: <em>The Back-Up Plan</em> Is Second Rate</a>
+	
+	
+
+<br />
+				
+				This week at the movies, we've got pregnancy pratfalls (The Back-up Plan, starring Jennifer Lopez...
+			</p>
+		
+	
+	</div>
+	<div class="content_footer clearfix">
+		<div class="float_right"><a href="/m/10011268-oceans/news.php">View All</a></div>
+	</div>
+</div>
+
+
+
+				
+	
+
+
+			
+			
+		
+	
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+	
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+	
+	
+		 
+		
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box " id="features_sidebar" >
+	<div class="content_header">
+		
+			
+			
+				<h3>What's Hot On RT</h3>	
+			
+		
+		
+		
+	</div>
+	<div class="content_body clearfix">
+		
+		<div class="center">
+			
+				<div class="center poster_box" pi="1464">
+					
+						<a href="/m/rise_of_the_planet_of_the_apes/news/1925194/weekly_ketchup_rise_of_the_planet_of_the_apes_sequel_gets_a_writer/">
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Weekly Ketchup" src="http://content9.flixster.com/site/10/25/08/10250891_ori.jpg" width="115" height="115"  />
+						</a>
+					
+					<div>
+						<a href="/m/rise_of_the_planet_of_the_apes/news/1925194/weekly_ketchup_rise_of_the_planet_of_the_apes_sequel_gets_a_writer/">Weekly Ketchup</a>
+						<p><em>Apes</em> Sequel Gets a Writer</p>
+					</div>
+				</div>
+			
+				<div class="center poster_box" pi="1459">
+					
+						<a href="/m/battleship/news/1925190/critics_consensus_battleship_is_all_wet/">
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Critics Consensus" src="http://content9.flixster.com/site/10/25/08/10250851_ori.jpg" width="115" height="115"  />
+						</a>
+					
+					<div>
+						<a href="/m/battleship/news/1925190/critics_consensus_battleship_is_all_wet/">Critics Consensus</a>
+						<p><em>Battleship</em> sinks to high heaven</p>
+					</div>
+				</div>
+			
+				<div class="center poster_box" pi="1410">
+					
+						<a href="http://www.rottentomatoes.com/m/the_amazing_spider_man/trailers/11150746/">
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Amazing Spider-Man" src="http://content9.flixster.com/site/10/25/08/10250883_ori.jpg" width="115" height="115"  />
+						</a>
+					
+					<div>
+						<a href="http://www.rottentomatoes.com/m/the_amazing_spider_man/trailers/11150746/">Amazing Spider-Man</a>
+						<p>Video: Your friendly four minute preview</p>
+					</div>
+				</div>
+			
+				<div class="center poster_box" pi="1445">
+					
+						<a href="http://www.rottentomatoes.com/m/skyfall/pictures/">
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Skyfall" src="http://content7.flixster.com/site/10/25/08/10250841_ori.jpg" width="115" height="115"  />
+						</a>
+					
+					<div>
+						<a href="http://www.rottentomatoes.com/m/skyfall/pictures/">Skyfall</a>
+						<p>New 007 poster and pictures</p>
+					</div>
+				</div>
+			
+		</div>	
+
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+	
+				
+	
+
+
+			
+			
+		
+	
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+	
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+	
+	
+		 
+		
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box " id="topquizzes_sidebar" >
+	<div class="content_header">
+		
+			
+			
+				<h3>Top Movie Quizzes</h3>	
+			
+		
+		
+		
+	</div>
+	<div class="content_body clearfix">
+		
+	
+		
+		<div class="media_block bottom_divider" pi="1613651">
+			<a class="media_block_image" href="/quiz/lego-mania-2011-best-picture-nominees"><img src="http://content6.flixster.com/quiz/40/34/403440_tmb.png" /></a>
+			<div class="media_block_content">
+			<h6><a href="/quiz/lego-mania-2011-best-picture-nominees">LEGO Mania: 2011 Best Picture Nominees</a></h6>
+			<div>by natalie - 21,849 taken</div>
+			<span class="subtext">created</span> 15 months ago
+			</div>
+		</div>
+	
+		
+		<div class="media_block bottom_divider" pi="1609114">
+			<a class="media_block_image" href="/quiz/how-much-do-you-know-about-leonardo-dicaprio-1609114"><img src="http://content7.flixster.com/quiz/39/98/399889_tmb.jpg" /></a>
+			<div class="media_block_content">
+			<h6><a href="/quiz/how-much-do-you-know-about-leonardo-dicaprio-1609114">How Much Do You Know About Leonardo DiCaprio?</a></h6>
+			<div>by natalie - 52,961 taken</div>
+			<span class="subtext">created</span> 18 months ago
+			</div>
+		</div>
+	
+		
+		<div class="media_block bottom_divider" pi="1609112">
+			<a class="media_block_image" href="/quiz/pixar-movies-1609112"><img src="http://content9.flixster.com/quiz/39/98/399811_tmb.jpg" /></a>
+			<div class="media_block_content">
+			<h6><a href="/quiz/pixar-movies-1609112">Pixar Movies!</a></h6>
+			<div>by jdikwlzviv - 32,161 taken</div>
+			<span class="subtext">created</span> 18 months ago
+			</div>
+		</div>
+	
+		
+		<div class="media_block bottom_divider" pi="1609279">
+			<a class="media_block_image" href="/quiz/the-wizards-of-harry-potter"><img src="http://content9.flixster.com/quiz/39/99/399991_tmb.jpg" /></a>
+			<div class="media_block_content">
+			<h6><a href="/quiz/the-wizards-of-harry-potter">The Wizards of Harry Potter</a></h6>
+			<div>by jdikwlzviv - 32,765 taken</div>
+			<span class="subtext">created</span> 18 months ago
+			</div>
+		</div>
+	
+
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+
+
+
+				
+	
+
+
+			
+			
+		
+	
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+	
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+	
+	
+		 
+		
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+	#homepagenews ul {margin-bottom: 5px;}
+	#homepagenews .newslink { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; display:inline-block; width:240px;}	
+</style>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box " id="homepagenews" >
+	<div class="content_header">
+		
+			
+			
+				<h3><a href="/news/">Movie News</a></h3>	
+			
+		
+		
+		<div class="float_right"><a href="/news/">View All</a></div>
+	</div>
+	<div class="content_body clearfix">
+		
+		<h4 class="fl">Featured on RT</h4>
+		<div class="fr">Comments</div>
+		<ul class="cleardiv bullets">
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/m/rise_of_the_planet_of_the_apes/news/1925194/weekly_ketchup_rise_of_the_planet_of_the_apes_sequel_gets_a_writer/" title="Source: Rotten Tomatoes"   >Weekly Ketchup: <em>Rise of the Planet of the Apes</em> Sequel Gets A Writer</a>
+	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	 
+		<a href="/m/rise_of_the_planet_of_the_apes/news/1925194/weekly_ketchup_rise_of_the_planet_of_the_apes_sequel_gets_a_writer/" title="11 Comments" class="comments">11</a>
+	
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/m/battleship/news/1925190/critics_consensus_battleship_is_all_wet/" title="Source: Rotten Tomatoes"   >Critics Consensus: <em>Battleship</em> Is All Wet</a>
+	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	 
+		<a href="/m/battleship/news/1925190/critics_consensus_battleship_is_all_wet/" title="69 Comments" class="comments">69</a>
+	
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/m/battleship/news/1925149/total_recall_victory_at_sea/" title="Source: Rotten Tomatoes"   >Total Recall: Victory at Sea</a>
+	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	 
+		<a href="/m/battleship/news/1925149/total_recall_victory_at_sea/" title="59 Comments" class="comments">59</a>
+	
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/m/moonrise_kingdom/news/1925171/cannes_2012_25_films_to_watch/" title="Source: Rotten Tomatoes"   >Cannes 2012: 25 Films to Watch</a>
+	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	 
+		<a href="/m/moonrise_kingdom/news/1925171/cannes_2012_25_films_to_watch/" title="0 Comments" class="comments">0</a>
+	
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/m/the_dictator_2012/news/1925170/24_frames_a_history_of_dictators/" title="Source: Rotten Tomatoes"   >24 Frames: A History of Dictators</a>
+	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	 
+		<a href="/m/the_dictator_2012/news/1925170/24_frames_a_history_of_dictators/" title="0 Comments" class="comments">0</a>
+	
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/m/the_grey_2012/news/1925148/rt_on_dvd__blu-ray_the_grey_chronicle_and_albert_nobbs/" title="Source: Rotten Tomatoes"   >RT on DVD & Blu-Ray: <em>The Grey</em>, <em>Chronicle</em>, and <em>Albert Nobbs</em></a>
+	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	 
+		<a href="/m/the_grey_2012/news/1925148/rt_on_dvd__blu-ray_the_grey_chronicle_and_albert_nobbs/" title="42 Comments" class="comments">42</a>
+	
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/m/argo_2012/news/1925156/trailer_ben_affleck_goes_undercover_in_argo/" title="Source: Rotten Tomatoes"   >Trailer: Ben Affleck Goes Undercover in <em>Argo</em></a>
+	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	 
+		<a href="/m/argo_2012/news/1925156/trailer_ben_affleck_goes_undercover_in_argo/" title="0 Comments" class="comments">0</a>
+	
+	
+
+				</span>
+			</li>
+			
+		</ul>
+		
+		
+		<h4 class="cleardiv">Top Headlines</h4>		
+		<ul class="bullets">
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/m/rumble_in_the_bronx/news/1925193/jackie_chan_announces_his_retirement_from_action_movies/" title="Source: Moviefone" target="_blank"  >Jackie Chan Announces His Retirement from Action Movies <img src="http://images.rottentomatoes.com/images/icons/offsite.gif" alt="Moviefone in new window" width="10" height="8" border="0" /></a>
+	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	
+			
+		<a href="/m/rumble_in_the_bronx/news/1925193/comments/jackie_chan_announces_his_retirement_from_action_movies/" title="17 Comments" class="comments">17</a>
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/m/et_the_extraterrestrial/news/1925192/1982_the_greatest_movie_summer_ever/" title="Source: Popdose" target="_blank"  >1982: The Greatest Movie Summer Ever? <img src="http://images.rottentomatoes.com/images/icons/offsite.gif" alt="Popdose in new window" width="10" height="8" border="0" /></a>
+	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	
+			
+		<a href="/m/et_the_extraterrestrial/news/1925192/comments/1982_the_greatest_movie_summer_ever/" title="10 Comments" class="comments">10</a>
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/m/blade_runner/news/1925189/blade_runner_writer_in_talks_for_sequel/" title="Source: Hollywood Reporter" target="_blank"  ><i>Blade Runner</i> Writer in Talks for Sequel <img src="http://images.rottentomatoes.com/images/icons/offsite.gif" alt="Hollywood Reporter in new window" width="10" height="8" border="0" /></a>
+	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	
+			
+		<a href="/m/blade_runner/news/1925189/comments/blade_runner_writer_in_talks_for_sequel/" title="3 Comments" class="comments">3</a>
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/m/sin_city_a_dame_to_kill_for/news/1925188/sin_city_2_gets_a_release_date/" title="Source: Collider.com" target="_blank"  ><i>Sin City 2</i> Gets a Release Date <img src="http://images.rottentomatoes.com/images/icons/offsite.gif" alt="Collider.com in new window" width="10" height="8" border="0" /></a>
+	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	
+			
+		<a href="/m/sin_city_a_dame_to_kill_for/news/1925188/comments/sin_city_2_gets_a_release_date/" title="7 Comments" class="comments">7</a>
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/m/titanic/news/1925187/what_makes_movie_lines_so_memorable/" title="Source: Moviefone" target="_blank"  >What Makes Movie Lines So Memorable? <img src="http://images.rottentomatoes.com/images/icons/offsite.gif" alt="Moviefone in new window" width="10" height="8" border="0" /></a>
+	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	
+			
+		<a href="/m/titanic/news/1925187/comments/what_makes_movie_lines_so_memorable/" title="5 Comments" class="comments">5</a>
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/m/taken_2_2012/news/1925186/liam_neeson_takes_a_walk_among_the_tombstones/" title="Source: Collider.com" target="_blank"  >Liam Neeson Takes <i>A Walk Among the Tombstones</i> <img src="http://images.rottentomatoes.com/images/icons/offsite.gif" alt="Collider.com in new window" width="10" height="8" border="0" /></a>
+	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	
+			
+		<a href="/m/taken_2_2012/news/1925186/comments/liam_neeson_takes_a_walk_among_the_tombstones/" title="2 Comments" class="comments">2</a>
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a href="/m/hostel/news/1925185/eli_roth_heads_into_the_green_inferno/" title="Source: Twitch" target="_blank"  >Eli Roth Heads Into <i>The Green Inferno</i> <img src="http://images.rottentomatoes.com/images/icons/offsite.gif" alt="Twitch in new window" width="10" height="8" border="0" /></a>
+	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	
+			
+		<a href="/m/hostel/news/1925185/comments/eli_roth_heads_into_the_green_inferno/" title="2 Comments" class="comments">2</a>
+	
+
+				</span>
+			</li>
+			
+		</ul>
+		
+	
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+
+				
+	
+
+
+			
+			
+		
+	
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+	
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+	
+	
+		 
+		
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box freshlinks_sidebar" id="freshlinks_sidebar" >
+	<div class="content_header">
+		
+			
+			
+				<h3>Fresh Links</h3>	
+			
+		
+		
+		
+	</div>
+	<div class="content_body clearfix">
+		
+	
+		<h4 id="freshlinks_featured_header">Featured</h4>
+		
+		<div class="media_block bottom_divider" pi="1462">
+			
+			<a class="media_block_image" href="http://news.moviefone.com/2012/05/15/si-swimsuit-models-actress-brooklyn-decker_n_1518647.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'Exit Links', 'Click', 'http://news.moviefone.com/2012/05/15/si-swimsuit-models-actress-brooklyn-decker_n_1518647.html']);">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="From Model to Actress" src="http://content7.flixster.com/site/10/25/08/10250881_ori.jpg" width="55" height="55"  />
+			</a>
+			
+			<div class="media_block_content">
+				
+				<a target="_blank" href="http://news.moviefone.com/2012/05/15/si-swimsuit-models-actress-brooklyn-decker_n_1518647.html" onclick="_gaq.push(['_trackEvent', 'Exit Links', 'Click', 'http://news.moviefone.com/2012/05/15/si-swimsuit-models-actress-brooklyn-decker_n_1518647.html']);">
+					<h5>From Model to Actress 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="External Link" alt="External Link"/></h5>
+				</a>
+				
+				
+				Moviefone profiles the famous Sports Illustrated swimsuit models who have tried their hand at acting.
+				
+			</div>
+		</div>
+		
+		<div class="media_block bottom_divider" pi="1449">
+			
+			<a class="media_block_image" href="http://www.hitfix.com/galleries/summer-box-office-predictions-avengers-dark-knight-rises-snow-white" target="_blank" onclick="_gaq.push(['_trackEvent', 'Exit Links', 'Click', 'http://www.hitfix.com/galleries/summer-box-office-predictions-avengers-dark-knight-rises-snow-white']);">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Summer Movie Predictions" src="http://content9.flixster.com/site/10/25/07/10250739_ori.jpg" width="55" height="55"  />
+			</a>
+			
+			<div class="media_block_content">
+				
+				<a target="_blank" href="http://www.hitfix.com/galleries/summer-box-office-predictions-avengers-dark-knight-rises-snow-white" onclick="_gaq.push(['_trackEvent', 'Exit Links', 'Click', 'http://www.hitfix.com/galleries/summer-box-office-predictions-avengers-dark-knight-rises-snow-white']);">
+					<h5>Summer Movie Predictions 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="External Link" alt="External Link"/></h5>
+				</a>
+				
+				
+				HitFix goes over who will rule the multiplex this Summer.
+				
+			</div>
+		</div>
+		
+		<div class="media_block bottom_divider" pi="1435">
+			
+			<a class="media_block_image" href="http://www.buzzsugar.com/Avengers-Movie-Guide-22812609" target="_blank" onclick="_gaq.push(['_trackEvent', 'Exit Links', 'Click', 'http://www.buzzsugar.com/Avengers-Movie-Guide-22812609']);">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Catch Up with <em>The Avengers</em>" src="http://content9.flixster.com/site/10/25/06/10250611_ori.jpg" width="55" height="55"  />
+			</a>
+			
+			<div class="media_block_content">
+				
+				<a target="_blank" href="http://www.buzzsugar.com/Avengers-Movie-Guide-22812609" onclick="_gaq.push(['_trackEvent', 'Exit Links', 'Click', 'http://www.buzzsugar.com/Avengers-Movie-Guide-22812609']);">
+					<h5>Catch Up with <em>The Avengers</em> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="External Link" alt="External Link"/></h5>
+				</a>
+				
+				
+				Take a look back at how we've arrived at this weekend's release.
+				
+			</div>
+		</div>
+		
+		<div class="media_block bottom_divider" pi="1414">
+			
+			<a class="media_block_image" href="http://www.tecca.com/pictures/superhero-movies-netflix/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Exit Links', 'Click', 'http://www.tecca.com/pictures/superhero-movies-netflix/']);">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Superhero Movies on Netflix" src="http://content8.flixster.com/site/10/25/04/10250418_ori.jpg" width="55" height="55"  />
+			</a>
+			
+			<div class="media_block_content">
+				
+				<a target="_blank" href="http://www.tecca.com/pictures/superhero-movies-netflix/" onclick="_gaq.push(['_trackEvent', 'Exit Links', 'Click', 'http://www.tecca.com/pictures/superhero-movies-netflix/']);">
+					<h5>Superhero Movies on Netflix 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="External Link" alt="External Link"/></h5>
+				</a>
+				
+				
+				Need to get into a heroic mood for <em>The Avengers</em>?  Here are 10 superhero flicks you can find on Instant Watching!
+				
+			</div>
+		</div>
+		
+		<div class="media_block bottom_divider" pi="1392">
+			
+			<a class="media_block_image" href="http://entertainment.time.com/2012/04/13/top-10-wicked-smart-actors/#dolph-lundgren" target="_blank" onclick="_gaq.push(['_trackEvent', 'Exit Links', 'Click', 'http://entertainment.time.com/2012/04/13/top-10-wicked-smart-actors/#dolph-lundgren']);">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Wicked Smart Actors" src="http://content7.flixster.com/site/10/25/02/10250233_ori.jpg" width="55" height="55"  />
+			</a>
+			
+			<div class="media_block_content">
+				
+				<a target="_blank" href="http://entertainment.time.com/2012/04/13/top-10-wicked-smart-actors/#dolph-lundgren" onclick="_gaq.push(['_trackEvent', 'Exit Links', 'Click', 'http://entertainment.time.com/2012/04/13/top-10-wicked-smart-actors/#dolph-lundgren']);">
+					<h5>Wicked Smart Actors 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="External Link" alt="External Link"/></h5>
+				</a>
+				
+				
+				In observance of Spring Break, TIME looks back at a class of actors who showed real star power in the classroom.
+
+				
+			</div>
+		</div>
+		
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		<h4 id="freshlinks_promos_header">Promos</h4>
+		
+		<div class="media_block bottom_divider" pi="8">
+			
+			<a class="media_block_image" href="http://twitter.com/RottenTomatoes" target="_blank" onclick="_gaq.push(['_trackEvent', 'Exit Links', 'Click', 'http://twitter.com/RottenTomatoes']);">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Follow RT on Twitter!" src="http://content7.flixster.com/site/10/23/48/10234829_ori.jpg" width="55" height="55"  />
+			</a>
+			
+			<div class="media_block_content">
+				
+				<a target="_blank" href="http://twitter.com/RottenTomatoes" onclick="_gaq.push(['_trackEvent', 'Exit Links', 'Click', 'http://twitter.com/RottenTomatoes']);">
+					<h5>Follow RT on Twitter! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="External Link" alt="External Link"/></h5>
+				</a>
+				
+				
+				Spice up your feed with hourly Tomatometer updates!
+				
+			</div>
+		</div>
+		
+ 	
+	
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+
+				
+	
+
+
+			
+			
+		
+	
+
+
+
+
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="sidebillboard_ad" class="page_ad">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+	
+	
+	
+		
+		
+		
+	
+	
+	
+		
+		
+		
+		
+			
+				
+				
+				
+				
+					
+					 
+					
+					
+						
+					
+					
+						
+						
+					
+				
+			
+			
+				
+				
+				
+				
+			
+			
+		
+	
+	
+	
+	
+	
+		
+		
+			
+			
+				
+						
+			
+				
+						
+			
+				
+				
+					
+					
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+		
+	
+	
+	
+	<!-- Begin DART Tag-->
+	<script type="text/javascript">
+	(function() {
+		if(typeof(encodedUrl) == "undefined"){
+		    var encodedUrl = encodeURI(location.pathname);
+		    var urlParam = "";
+		    if(urlParam != null && urlParam.length > 0){
+		        encodedUrl = encodeURI(urlParam);
+		    }
+		}
+		document.write('<scr'+'ipt src="//ad.doubleclick.net/N6327/adj/rt.movie/movie_page;pos=bottom;'+qcsegments+';tile=3;sz=300x250,300x600;genre=documentary,drama;url='+ encodedUrl +';test=;ord=1337421465749?"></scr'+'ipt>');
+	})();
+	</script>
+	<noscript><a href="//ad.doubleclick.net/N6327/jump/rt.movie/movie_page;pos=bottom;tile=3;sz=300x250,300x600;genre=documentary,drama;url=http%3A%2F%2Fwww.rottentomatoes.com%2Fm%2F10011268-oceans%2F;ord=1337421465749;?" target="_blank"><img src="http://ad.doubleclick.net/N6327/ad/rt.movie/movie_page;pos=bottom;tile=3;sz=300x250,300x600;genre=documentary,drama;url=http%3A%2F%2Fwww.rottentomatoes.com%2Fm%2F10011268-oceans%2F;ord=1337421465749?" border="0" alt=""></a></noscript>
+	<!-- End DART Tag-->
+
+</div>
+			
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+	
+		
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+	
+	
+		 
+		
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box "  >
+	<div class="content_header">
+		
+			
+			
+				<h3>Foreign Titles</h3>	
+			
+		
+		
+		
+	</div>
+	<div class="content_body clearfix">
+		
+	<ul class="bullets">
+		
+			<li>Unsere Ozeane (DE)</li>
+		
+			<li>Oceans (UK)</li>
+		
+	</ul>
+
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+
+				
+	
+
+
+			
+			
+		
+	
+
+
+
+
+			
+			
+			
+		</div>
+	</div>
+	
+</div>
+
+<div class="body_foot"></div>
+
+
+	<div class="center sleaderboard">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="sleaderboard_ad" class="page_ad">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+	
+	
+	
+		
+		
+		
+	
+	
+	
+		
+		
+		
+		
+			
+				
+				
+				
+				
+					
+					 
+					
+					
+						
+					
+					
+						
+						
+					
+				
+			
+			
+				
+				
+				
+				
+			
+			
+		
+	
+	
+	
+	
+	
+		
+		
+			
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+				
+					
+					
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+		
+	
+	
+	
+	<!-- Begin DART Tag-->
+	<script type="text/javascript">
+	(function() {
+		if(typeof(encodedUrl) == "undefined"){
+		    var encodedUrl = encodeURI(location.pathname);
+		    var urlParam = "";
+		    if(urlParam != null && urlParam.length > 0){
+		        encodedUrl = encodeURI(urlParam);
+		    }
+		}
+		document.write('<scr'+'ipt src="//ad.doubleclick.net/N6327/adj/rt.movie/movie_page;pos=bottom;'+qcsegments+';tile=4;sz=728x90;genre=documentary,drama;url='+ encodedUrl +';test=;ord=1337421465749?"></scr'+'ipt>');
+	})();
+	</script>
+	<noscript><a href="//ad.doubleclick.net/N6327/jump/rt.movie/movie_page;pos=bottom;tile=4;sz=728x90;genre=documentary,drama;url=http%3A%2F%2Fwww.rottentomatoes.com%2Fm%2F10011268-oceans%2F;ord=1337421465749;?" target="_blank"><img src="http://ad.doubleclick.net/N6327/ad/rt.movie/movie_page;pos=bottom;tile=4;sz=728x90;genre=documentary,drama;url=http%3A%2F%2Fwww.rottentomatoes.com%2Fm%2F10011268-oceans%2F;ord=1337421465749?" border="0" alt=""></a></noscript>
+	<!-- End DART Tag-->
+
+</div>
+	</div>
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+
+	
+	
+	
+		
+		
+		
+	
+	
+	
+		
+		
+		
+		
+			
+				
+				
+				
+				
+					
+					 
+					
+					
+						
+					
+					
+						
+						
+					
+				
+			
+			
+				
+				
+				
+				
+			
+			
+		
+	
+	
+	
+	
+	
+		
+		
+			
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+				
+					
+					
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+				
+						
+			
+		
+	
+	
+	
+	<!-- Begin DART Tag-->
+	<script type="text/javascript">
+	(function() {
+		if(typeof(encodedUrl) == "undefined"){
+		    var encodedUrl = encodeURI(location.pathname);
+		    var urlParam = "";
+		    if(urlParam != null && urlParam.length > 0){
+		        encodedUrl = encodeURI(urlParam);
+		    }
+		}
+		document.write('<scr'+'ipt src="//ad.doubleclick.net/N6327/adj/rt.movie/skin;pos=;'+qcsegments+';tile=5;sz=0x0,1x1,1x2;genre=documentary,drama;url='+ encodedUrl +';test=;movieid=770805763;ord=1337421465749?"></scr'+'ipt>');
+	})();
+	</script>
+	<noscript><a href="//ad.doubleclick.net/N6327/jump/rt.movie/skin;pos=;tile=5;sz=0x0,1x1,1x2;genre=documentary,drama;url=http%3A%2F%2Fwww.rottentomatoes.com%2Fm%2F10011268-oceans%2F;ord=1337421465749;?" target="_blank"><img src="http://ad.doubleclick.net/N6327/ad/rt.movie/skin;pos=;tile=5;sz=0x0,1x1,1x2;genre=documentary,drama;url=http%3A%2F%2Fwww.rottentomatoes.com%2Fm%2F10011268-oceans%2F;movieid=770805763;ord=1337421465749?" border="0" alt=""></a></noscript>
+	<!-- End DART Tag-->
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="hidden login_dialog center" comp="LoginDialog">
+    <div class="clearfix"><a href="javascript:void(0);" sub="close" class="close_button fr"></a></div>
+    <p sub="prompt">Log in with Facebook to share your reviews with friends, create a want-to-see list, and more!</p>
+    <p><a class="fb_button fb_button_medium rt_fblogin" scope="email,publish_actions"><span class="fb_button_text">Log In with Facebook</span></a></p>
+</div>
+
+
+<div class="foot">
+	<div class="foot_nav">
+	 <a href="/help_desk/">Help</a> | <a href="http://www.flixster.com/about/" target="_blank">About</a> | <a href="/help_desk/jobs/">Jobs</a> | <a href="/features/newsletter/">Newsletter</a> | <a href="/help_desk/critics.php">Critics Submission</a> | <a href="http://developer.rottentomatoes.com">API</a> | <a href="/help_desk/licensing.php">Licensing</a> | <a href="/mobile/info/" >Mobile</a> 
+	</div>
+	<div class="foot_browse">
+	
+	</div>
+	<div class="copyright">
+		
+		<span onclick="javascript:alert('/movies/movie.jsp\n web26.flixster.com (de)\n GA:/MOB-DvdOther\n release: prod20120517\n rt-git-desc:RTRELEASE.2012-05-17.16-41-28\n flixster-git-desc:RTRELEASE.2012-05-17.16-41-28');">Copyright &copy;</span> Flixster, Inc. All rights reserved. 
+		 
+		<a href="http://community.flixster.com/misc/copyrightprivacyterms" target="_blank">Copyright, Privacy Policy, Terms of Service</a> 
+		| <a href="/help_desk/privacy.php#thirdparty">Ad Choices</a>
+		<div class="TMZ">In partnership with <a href="http://www.tmz.com" target="_blank">TMZ.com</a></div>
+	</div>
+</div>
+<div id="hover-tip" class="hover_tip"><span sub="tip"></span></div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+$('body').bind('social', function() {
+		FB.Event.subscribe('edge.create', function(targetUrl) {
+	  		_gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
+		});
+		FB.Event.subscribe('edge.remove', function(targetUrl) {
+  			_gaq.push(['_trackSocial', 'facebook', 'unlike', targetUrl]);
+		});
+		FB.Event.subscribe('message.send', function(targetUrl) {
+			_gaq.push(['_trackSocial', 'facebook', 'send', targetUrl]);
+		});
+	});
+
+	$(function() {
+		var allCriticsTab = $('#all-critics');
+		var allCriticsLink = $('#all-critics-link');
+		var allCriticsNumbers = $('#all-critics-numbers');
+
+		var topCriticsTab = $('#top-critics');
+		var topCriticsLink = $('#top-critics-link');
+		var topCriticsNumbers = $('#top-critics-numbers');
+
+		allCriticsLink.click(function(e) {
+			e.preventDefault();
+			topCriticsLink.removeClass();
+			topCriticsNumbers.hide();
+			allCriticsLink.addClass('active');
+			allCriticsNumbers.show();
+			allCriticsTab.click();
+		});
+
+		topCriticsLink.click(function(e) {
+			e.preventDefault();
+			allCriticsLink.removeClass();
+			allCriticsNumbers.hide();
+			topCriticsLink.addClass('active');
+			topCriticsNumbers.show();
+			topCriticsTab.click();
+		});
+	});
+$('#movieSynopsis').rt_showMoreLink({moreText:'... More', lessText:'', moreItemsSelector:'#movieSynopsisRemaining', moreLinkSelector:'#showMoreSynopsis'});
+
+		// Facebook Logged in
+		$('body').bind('social', {friend_reviews:'/social/friendRatings.jsp', movieId : 770805763,}, function(e) {
+			loadSocialContent(e.data);
+		});
+$('#quoteBubble906492753_770805763').rt_showMoreLink({moreText:'... more', lessText:' less', moreItemsSelector:'#remainingText906492753_770805763', moreLinkSelector:'#showMoreTextLink906492753_770805763'});
+$('#quoteBubble804169418_770805763').rt_showMoreLink({moreText:'... more', lessText:' less', moreItemsSelector:'#remainingText804169418_770805763', moreLinkSelector:'#showMoreTextLink804169418_770805763'});
+/* ]]> */
+</script>
+
+
+<script type="text/javascript">
+(function() {	
+	$("[comp]").comp(); 
+	
+})();
+
+function fbdeauth(doblock, forceCancel, redirectUrl) {
+    $.post('/user/account/action/facebook-deauth/', {forceCancel : forceCancel});
+	FB.api(
+	{
+		method: 'auth.revokeAuthorization',
+		uid: '',
+		block: doblock
+	},
+	function(response) {
+		if (redirectUrl) {
+			window.location = redirectUrl;
+		}
+		else {
+			location.reload();
+		}
+	}
+	);
+}
+
+</script>
+
+
+<script type="text/javascript"> 
+//<![CDATA[
+<!-- Begin comScore Tag -->
+if (typeof COMSCORE == "undefined") { var COMSCORE={}}COMSCORE.beacon=function(d){if(!d){return}var a=1.6,e=document,g=e.location,c=function(h){if(h==null){return""}return(encodeURIComponent||escape)(h)},f=[(g.protocol=="https:"?"https://sb":"http://b"),".scorecardresearch.com/b?","c1=",c(d.c1),"&c2=",c(d.c2),"&rn=",Math.random(),"&c7=",c(g.href),"&c3=",c(d.c3),"&c4=",c(d.c4),"&c5=",c(d.c5),"&c6=",c(d.c6),"&c15=",c(d.c15),"&c16=",c(d.c16),"&c8=",c(e.title),"&c9=",c(e.referrer),"&cv=",a].join("");f=f.length>1500?f.substr(0,1495)+"&ct=1":f;var b=new Image();b.onload=function(){};b.src=f;return f };
+COMSCORE.beacon({ c1:2, c2:"3000068", c3:"", c4:"http://www.rottentomatoes.com", c5:"", c6:"", c15:"" });
+<!-- End comScore Tag -->
+//]]-->
+</script>
+
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript" src="//secure-us.imrworldwide.com/v60.js"></script>
+<script type="text/javascript">
+ var pvar = { cid: "us-203323h", content: "0", server: "secure-us" };
+ var trac = nol_t(pvar);
+ trac.record().post();
+</script>
+<noscript><div> <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-203323h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" /> </div></noscript>
+<!-- END Nielsen Online SiteCensus V6.0 --> 
+
+
+
+<script type="text/javascript">
+  _gaq.push(['_setDomainName', 'www.rottentomatoes.com'],
+  ['_setAllowHash', false],  
+  
+  ['_setAllowAnchor', true],
+  ['_setCampNameKey', 'c'],
+  ['_setCampMediumKey', 'm'],
+  ['_setCampSourceKey', 's'],
+  ['_setCampaignCookieTimeout', 0]); 
+
+  
+  
+  
+	
+	
+	
+		_gaq.push(['_setCustomVar', 1, 'Login Type', 'Anon', 2]);
+	
+  
+
+  
+  
+  
+  
+  
+  _gaq.push(['_trackPageview', '/MOB-DvdOther']);
+  
+  
+  //_gaq.push(['_trackPageLoadTime']); Deprecated
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+<script type="text/javascript">_qoptions={ qacct:"p-0fuRlG_jy3lfA" };</script> 
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"> </script> 
+<noscript><a href="http://www.quantcast.com/p-0fuRlG_jy3lfA" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-0fuRlG_jy3lfA.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
+
+
+
+<script type="text/javascript">
+function qc_results(result) {
+	quantSegs="";
+	for (var i = 0; i < result.segments.length; i++) {
+		quantSegs += 'qcs=' + result.segments[i].id; 
+		if (i<result.segments.length-1) { quantSegs += ';'; }
+	}
+	setCookie("qcs",quantSegs,90,"/");
+}
+</script>
+<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-0fuRlG_jy3lfA&callback=qc_results" ></script>
+	
+
+
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+
+</body>
+
+
+
+</html>

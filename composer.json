@@ -1,0 +1,31 @@
+{
+    "name":"scottmac/opengraph",
+    "description":"Helper class for accessing the OpenGraph Protocol",
+    "keywords":[
+        "OpenGraph"
+    ],
+    "homepage":"http://github.com/scottmac/opengraph",
+    "type":"library",
+    "license":"Apache 2.0",
+    "authors":[
+        {
+            "name":"Scott MacVicar",
+            "homepage":"http://www.macvicar.net"
+        },
+        {
+            "name":"Bastian Hofmann",
+            "email":"bastian.hofmann@researchgate.net",
+            "homepage":"http://www.bastianhofmann.de"
+        }
+    ],
+    "require":{
+        "php":">=5.3.2",
+        "ext-dom":"*",
+        "kriswallsmith/buzz":"*"
+    },
+    "autoload": {
+        "psr-0": {
+            "OpenGraph": "src/"
+        }
+    }
+}
