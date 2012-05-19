@@ -21,7 +21,8 @@ class OpenGraphTest extends \PHPUnit_Framework_TestCase {
 
     public function testFetch() {
         $o = OpenGraph::fetch(
-            'http://www.rottentomatoes.com/m/10011268-oceans/'
+            'http://www.rottentomatoes.com/m/10011268-oceans/',
+            $this->getMockBrowser()
         );
 
         $this->assertInstanceOf('OpenGraph\OpenGraph', $o);
@@ -41,7 +42,8 @@ class OpenGraphTest extends \PHPUnit_Framework_TestCase {
 
     public function testFetchParsesFallbacksForWebsiteWithNoOpenGraphMetadata() {
         $o = OpenGraph::fetch(
-            'http://www.example.org/'
+            'http://www.example.org/',
+            $this->getMockBrowser()
         );
 
         $this->assertInstanceOf('OpenGraph\OpenGraph', $o);
@@ -53,5 +55,27 @@ class OpenGraphTest extends \PHPUnit_Framework_TestCase {
             '_values',
             $o
         );
+    }
+
+    /**
+     * @return \PHPUnit_Framework_MockObject_MockObject|\Buzz\Browser
+     */
+    private function getMockBrowser() {
+        $mockBrowser = $this->getMockBuilder('\Buzz\Browser')->disableOriginalConstructor()->getMock();
+
+        $ogResponse = new \Buzz\Message\Response();
+        $ogResponse->setContent(file_get_contents(__DIR__ . '/_fixtures/og.txt'));
+
+        $nonOgResponse = new \Buzz\Message\Response();
+        $nonOgResponse->setContent(file_get_contents(__DIR__ . '/_fixtures/non_og.txt'));
+
+        $mockBrowser->expects($this->exactly(1))
+            ->method('get')
+            ->will($this->returnValueMap(array(
+                array('http://www.rottentomatoes.com/m/10011268-oceans/', array(), $ogResponse),
+                array('http://www.example.org/', array(), $nonOgResponse),
+        )));
+
+        return $mockBrowser;
     }
 }
