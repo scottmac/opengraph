@@ -47,7 +47,21 @@ class OpenGraph implements Iterator
    * @return OpenGraph
    */
 	static public function fetch($URI) {
-		return self::_parse(file_get_contents($URI));
+        $curl = curl_init($URI);
+
+        curl_setopt($curl, CURLOPT_FAILONERROR, true);
+        curl_setopt($curl, CURLOPT_FOLLOWLOCATION, true);
+        curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($curl, CURLOPT_TIMEOUT, 15);
+        curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, false);
+        curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
+        curl_setopt($curl, CURLOPT_USERAGENT, $_SERVER['HTTP_USER_AGENT']);
+
+        $response = curl_exec($curl);
+
+        curl_close($curl);
+
+        return self::_parse($response);
 	}
 
   /**
