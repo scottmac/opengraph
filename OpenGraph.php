@@ -107,6 +107,20 @@ class OpenGraph implements Iterator
             $page->_values['description'] = $nonOgDescription;
         }
 
+        //Fallback to use image_src if ogp::image isn't set.
+        if (!isset($page->values['image'])) {
+            $domxpath = new DOMXPath($doc);
+            $elements = $domxpath->query("//link[@rel='image_src']");
+
+            if ($elements->length > 0) {
+                $domattr = $elements->item(0)->attributes->getNamedItem('href');
+                if ($domattr) {
+                    $page->_values['image'] = $domattr->value;
+                    $page->_values['image_src'] = $domattr->value;
+                }
+            }
+        }
+
 		if (empty($page->_values)) { return false; }
 		
 		return $page;
