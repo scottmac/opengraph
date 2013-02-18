@@ -13,6 +13,9 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+   
+	Original can be found at https://github.com/scottmac/opengraph/blob/master/OpenGraph.php
+   
 */
 
 class OpenGraph implements Iterator
@@ -86,13 +89,37 @@ class OpenGraph implements Iterator
 
 		$page = new self();
 
+		$nonOgDescription = null;
+		
 		foreach ($tags AS $tag) {
 			if ($tag->hasAttribute('property') &&
 			    strpos($tag->getAttribute('property'), 'og:') === 0) {
 				$key = strtr(substr($tag->getAttribute('property'), 3), '-', '_');
 				$page->_values[$key] = $tag->getAttribute('content');
 			}
+			
+			//Added this if loop to retrieve description values from sites like the New York Times who have malformed it. 
+			if ($tag ->hasAttribute('value') && $tag->hasAttribute('property') &&
+			    strpos($tag->getAttribute('property'), 'og:') === 0) {
+				$key = strtr(substr($tag->getAttribute('property'), 3), '-', '_');
+				$page->_values[$key] = $tag->getAttribute('value');
+			}
+			//Based on modifications at https://github.com/bashofmann/opengraph/blob/master/src/OpenGraph/OpenGraph.php
+			if ($tag->hasAttribute('name') && $tag->getAttribute('name') === 'description') {
+                $nonOgDescription = $tag->getAttribute('content');
+            }
+			
 		}
+		//Based on modifications at https://github.com/bashofmann/opengraph/blob/master/src/OpenGraph/OpenGraph.php
+		if (!isset($page->_values['title'])) {
+            $titles = $doc->getElementsByTagName('title');
+            if ($titles->length > 0) {
+                $page->_values['title'] = $titles->item(0)->textContent;
+            }
+        }
+        if (!isset($page->_values['description']) && $nonOgDescription) {
+            $page->_values['description'] = $nonOgDescription;
+        }
 
 		if (empty($page->_values)) { return false; }
 		
