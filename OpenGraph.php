@@ -64,7 +64,11 @@ class OpenGraph implements Iterator
 
         curl_close($curl);
 
-        return self::_parse($response);
+        if (!empty($response)) {
+            return self::_parse($response);
+        } else {
+            return false;
+        }
 	}
 
   /**
