@@ -71,6 +71,21 @@ class OpenGraph implements Iterator
         }
 	}
 
+    /**
+     * Parses HTML source code for Open Graph data, returns
+     * false on error.
+     *
+     * @param $sourcecode    code to parse for Open Graph data
+     * @return OpenGraph
+     */
+    static public function parse($sourcecode) {
+          if (!empty($sourcecode)) {
+              return self::_parse($sourcecode);
+          } else {
+              return false;
+          }
+    }
+
   /**
    * Parses HTML and extracts Open Graph data, this assumes
    * the document is at least well formed.
