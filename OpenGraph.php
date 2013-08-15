@@ -71,6 +71,18 @@ class OpenGraph implements Iterator
         }
 	}
 
+
+  /**
+   * Public wrapper for the _parse method
+   *
+   * @param $HTML    HTML to parse
+   * @return OpenGraph
+   */
+    static public function parse($HTML) {
+        return self::_parse($HTML);
+    }
+
+
   /**
    * Parses HTML and extracts Open Graph data, this assumes
    * the document is at least well formed.
