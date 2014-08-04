@@ -112,6 +112,12 @@ class OpenGraph implements Iterator
 			if ($tag->hasAttribute('name') && $tag->getAttribute('name') === 'description') {
                 $nonOgDescription = $tag->getAttribute('content');
             }
+            
+			if ($tag->hasAttribute('property') &&
+			    strpos($tag->getAttribute('property'), 'twitter:') === 0) {
+				$key = strtr($tag->getAttribute('property'), '-:', '__');
+				$page->_values[$key] = $tag->getAttribute('content');
+			}
 			
 		}
 		//Based on modifications at https://github.com/bashofmann/opengraph/blob/master/src/OpenGraph/OpenGraph.php
