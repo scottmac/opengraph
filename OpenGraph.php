@@ -50,7 +50,25 @@ class OpenGraph implements Iterator
    * @return OpenGraph
    */
 	static public function fetch($URI) {
-		return self::_parse(file_get_contents($URI));
+        $curl = curl_init($URI);
+
+        curl_setopt($curl, CURLOPT_FAILONERROR, true);
+        curl_setopt($curl, CURLOPT_FOLLOWLOCATION, true);
+        curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($curl, CURLOPT_TIMEOUT, 15);
+        curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, false);
+        curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
+        curl_setopt($curl, CURLOPT_USERAGENT, $_SERVER['HTTP_USER_AGENT']);
+
+        $response = curl_exec($curl);
+
+        curl_close($curl);
+
+        if (!empty($response)) {
+            return self::_parse($response);
+        } else {
+            return false;
+        }
 	}
 
   /**
@@ -105,6 +123,20 @@ class OpenGraph implements Iterator
         }
         if (!isset($page->_values['description']) && $nonOgDescription) {
             $page->_values['description'] = $nonOgDescription;
+        }
+
+        //Fallback to use image_src if ogp::image isn't set.
+        if (!isset($page->values['image'])) {
+            $domxpath = new DOMXPath($doc);
+            $elements = $domxpath->query("//link[@rel='image_src']");
+
+            if ($elements->length > 0) {
+                $domattr = $elements->item(0)->attributes->getNamedItem('href');
+                if ($domattr) {
+                    $page->_values['image'] = $domattr->value;
+                    $page->_values['image_src'] = $domattr->value;
+                }
+            }
         }
 
 		if (empty($page->_values)) { return false; }
