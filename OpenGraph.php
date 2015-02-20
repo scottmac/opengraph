@@ -59,6 +59,9 @@ class OpenGraph implements Iterator
         curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, false);
         curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
         curl_setopt($curl, CURLOPT_USERAGENT, $_SERVER['HTTP_USER_AGENT']);
+        //The following 2 set up lines work with sites like www.nytimes.com
+        curl_setopt($curl, CURLOPT_COOKIEFILE, "cookie.txt"); //you can change this path to whetever you want. 
+  	curl_setopt($curl, CURLOPT_COOKIEJAR, "cookie.txt"); //you can change this path to whetever you want. 
 
         $response = curl_exec($curl);
 
