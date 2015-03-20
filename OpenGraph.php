@@ -97,14 +97,14 @@ class OpenGraph implements Iterator
 		
 		foreach ($tags AS $tag) {
 			if ($tag->hasAttribute('property') &&
-			    strpos($tag->getAttribute('property'), 'og:') === 0) {
+			    strncmp($tag->getAttribute('property'), 'og:', 3) === 0) {
 				$key = strtr(substr($tag->getAttribute('property'), 3), '-', '_');
 				$page->_values[$key] = $tag->getAttribute('content');
 			}
 			
 			//Added this if loop to retrieve description values from sites like the New York Times who have malformed it. 
 			if ($tag ->hasAttribute('value') && $tag->hasAttribute('property') &&
-			    strpos($tag->getAttribute('property'), 'og:') === 0) {
+			    strncmp($tag->getAttribute('property'), 'og:', 3) === 0) {
 				$key = strtr(substr($tag->getAttribute('property'), 3), '-', '_');
 				$page->_values[$key] = $tag->getAttribute('value');
 			}
