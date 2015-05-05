@@ -99,7 +99,8 @@ class OpenGraph implements Iterator
 			if ($tag->hasAttribute('property') &&
 			    strpos($tag->getAttribute('property'), 'og:') === 0) {
 				$key = strtr(substr($tag->getAttribute('property'), 3), '-', '_');
-				$page->_values[$key] = $tag->getAttribute('content');
+        if(!array_key_exists($key, $page->_values))
+				  $page->_values[$key] = $tag->getAttribute('content');
 			}
 			
 			//Added this if loop to retrieve description values from sites like the New York Times who have malformed it. 
