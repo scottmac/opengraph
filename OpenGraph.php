@@ -99,7 +99,8 @@ class OpenGraph implements Iterator
 			if ($tag->hasAttribute('property') &&
 			    strpos($tag->getAttribute('property'), 'og:') === 0) {
 				$key = strtr(substr($tag->getAttribute('property'), 3), '-', '_');
-				$page->_values[$key] = $tag->getAttribute('content');
+        if(!array_key_exists($key, $page->_values))
+				  $page->_values[$key] = $tag->getAttribute('content');
 			}
 			
 			//Added this if loop to retrieve description values from sites like the New York Times who have malformed it. 
@@ -126,7 +127,7 @@ class OpenGraph implements Iterator
         }
 
         //Fallback to use image_src if ogp::image isn't set.
-        if (!isset($page->values['image'])) {
+        if (!isset($page->_values['image'])) {
             $domxpath = new DOMXPath($doc);
             $elements = $domxpath->query("//link[@rel='image_src']");
 
