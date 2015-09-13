@@ -13,9 +13,9 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-   
+
 	Original can be found at https://github.com/scottmac/opengraph/blob/master/OpenGraph.php
-   
+
 */
 
 class OpenGraph implements Iterator
@@ -82,8 +82,8 @@ class OpenGraph implements Iterator
 		$old_libxml_error = libxml_use_internal_errors(true);
 
 		$doc = new DOMDocument();
-		$doc->loadHTML($HTML);
-		
+		$doc->loadHTML('<?xml encoding="utf-8" ?>' . $HTML);
+
 		libxml_use_internal_errors($old_libxml_error);
 
 		$tags = $doc->getElementsByTagName('meta');
@@ -94,15 +94,15 @@ class OpenGraph implements Iterator
 		$page = new self();
 
 		$nonOgDescription = null;
-		
+
 		foreach ($tags AS $tag) {
 			if ($tag->hasAttribute('property') &&
 			    strpos($tag->getAttribute('property'), 'og:') === 0) {
 				$key = strtr(substr($tag->getAttribute('property'), 3), '-', '_');
 				$page->_values[$key] = $tag->getAttribute('content');
 			}
-			
-			//Added this if loop to retrieve description values from sites like the New York Times who have malformed it. 
+
+			//Added this if loop to retrieve description values from sites like the New York Times who have malformed it.
 			if ($tag ->hasAttribute('value') && $tag->hasAttribute('property') &&
 			    strpos($tag->getAttribute('property'), 'og:') === 0) {
 				$key = strtr(substr($tag->getAttribute('property'), 3), '-', '_');
@@ -112,7 +112,7 @@ class OpenGraph implements Iterator
 			if ($tag->hasAttribute('name') && $tag->getAttribute('name') === 'description') {
                 $nonOgDescription = $tag->getAttribute('content');
             }
-			
+
 		}
 		//Based on modifications at https://github.com/bashofmann/opengraph/blob/master/src/OpenGraph/OpenGraph.php
 		if (!isset($page->_values['title'])) {
@@ -140,7 +140,7 @@ class OpenGraph implements Iterator
         }
 
 		if (empty($page->_values)) { return false; }
-		
+
 		return $page;
 	}
 
@@ -155,7 +155,7 @@ class OpenGraph implements Iterator
 		if (array_key_exists($key, $this->_values)) {
 			return $this->_values[$key];
 		}
-		
+
 		if ($key === 'schema') {
 			foreach (self::$TYPES AS $schema => $types) {
 				if (array_search($this->_values['type'], $types)) {
@@ -192,7 +192,7 @@ class OpenGraph implements Iterator
 		if (array_key_exists('latitude', $this->_values) && array_key_exists('longitude', $this->_values)) {
 			return true;
 		}
-		
+
 		$address_keys = array('street_address', 'locality', 'region', 'postal_code', 'country_name');
 		$valid_address = true;
 		foreach ($address_keys AS $key) {
