@@ -103,10 +103,18 @@ class OpenGraph implements Iterator
 		$nonOgDescription = null;
 
 		foreach ($tags AS $tag) {
-			if ($tag->hasAttribute('property') &&
-			    strpos($tag->getAttribute('property'), 'og:') === 0) {
+			if ($tag->hasAttribute('property') && strpos($tag->getAttribute('property'), 'og:') === 0) {
 				$key = strtr(substr($tag->getAttribute('property'), 3), '-', '_');
-				$page->_values[$key] = $tag->getAttribute('content');
+      
+        if(isset($key)){
+          if(!is_array($page->_values[$key])){
+            $temp = $page->_values[$key];
+            $page->_values[$key] = array($temp);  
+          }
+            $page->_values[$key][] = $tag->getAttribute('content');
+        }else{
+          $page->_values[$key] = $tag->getAttribute('content');
+        }
 			}
 
 			//Added this if loop to retrieve description values from sites like the New York Times who have malformed it.
