@@ -60,7 +60,7 @@ class OpenGraph implements Iterator
         curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
         curl_setopt($curl, CURLOPT_USERAGENT, "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)");
 
-        $response = curl_exec($curl);
+        $response = mb_convert_encoding(curl_exec($curl), 'HTML-ENTITIES', 'UTF-8');
 
         curl_close($curl);
 
