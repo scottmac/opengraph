@@ -60,7 +60,7 @@ class OpenGraph implements Iterator
         curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
         curl_setopt($curl, CURLOPT_USERAGENT, $_SERVER['HTTP_USER_AGENT']);
 
-        $response = curl_exec($curl);
+        $response = mb_convert_encoding(curl_exec($curl), 'HTML-ENTITIES', 'UTF-8');
 
         curl_close($curl);
 
