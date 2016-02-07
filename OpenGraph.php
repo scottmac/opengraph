@@ -50,6 +50,10 @@ class OpenGraph implements Iterator
    * @return OpenGraph
    */
 	static public function fetch($URI) {
+    $cookie_path = 'cookie.txt';
+    if ( isset(COOKIE_PATH_FOR_CURL) ){
+      $cookie_path = COOKIE_PATH_FOR_CURL;
+    }
     $curl = curl_init($URI);
 
     curl_setopt($curl, CURLOPT_FAILONERROR, true);
@@ -60,8 +64,8 @@ class OpenGraph implements Iterator
     curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
     curl_setopt($curl, CURLOPT_USERAGENT, "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)");
     //The following 2 set up lines work with sites like www.nytimes.com
-    curl_setopt($curl, CURLOPT_COOKIEFILE, "cookie.txt"); //you can change this path to whetever you want.
-    curl_setopt($curl, CURLOPT_COOKIEJAR, "cookie.txt"); //you can change this path to whetever you want.
+    curl_setopt($curl, CURLOPT_COOKIEFILE, $cookie_path); //you can change this path to whetever you want.
+    curl_setopt($curl, CURLOPT_COOKIEJAR, $cookie_path); //you can change this path to whetever you want.
 
     $response = mb_convert_encoding(curl_exec($curl), 'HTML-ENTITIES', 'UTF-8');
 
