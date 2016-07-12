@@ -105,16 +105,15 @@ class OpenGraph implements Iterator
 		foreach ($tags AS $tag) {
 			if ($tag->hasAttribute('property') && strpos($tag->getAttribute('property'), 'og:') === 0) {
 				$key = strtr(substr($tag->getAttribute('property'), 3), '-', '_');
-      
-        if(isset($key)){
-          if(!is_array($page->_values[$key])){
-            $temp = $page->_values[$key];
-            $page->_values[$key] = array($temp);  
-          }
-            $page->_values[$key][] = $tag->getAttribute('content');
-        }else{
-          $page->_values[$key] = $tag->getAttribute('content');
-        }
+
+		        if( array_key_exists($key, $page->_values) ){
+					if ( !array_key_exists($key.'_additional', $page->_values) ){
+						$page->_values[$key.'_additional'] = array();
+					}
+		        	$page->_values[$key.'_additional'][] = $tag->getAttribute('content');
+		        }else{
+		        	$page->_values[$key] = $tag->getAttribute('content');
+		        }
 			}
 
 			//Added this if loop to retrieve description values from sites like the New York Times who have malformed it.
@@ -137,7 +136,14 @@ class OpenGraph implements Iterator
 			if ($tag->hasAttribute('name') &&
 				strpos($tag->getAttribute('name'), 'twitter:') === 0) {
 				$key = strtr($tag->getAttribute('name'), '-:', '__');
-				$page->_values[$key] = $tag->getAttribute('content');
+				if( array_key_exists($key, $page->_values) ){
+					if (!array_key_exists($key.'_additional', $page->_values)){
+						$page->_values[$key.'_additional'] = array();
+					}
+					$page->_values[$key.'_additional'][] = $tag->getAttribute('content');
+				} else {
+					$page->_values[$key] = $tag->getAttribute('content');
+				}
 			}
 		}
 		//Based on modifications at https://github.com/bashofmann/opengraph/blob/master/src/OpenGraph/OpenGraph.php
