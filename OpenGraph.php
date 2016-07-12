@@ -77,6 +77,14 @@ class OpenGraph implements Iterator
         return false;
     }
 	}
+	
+	static public function parse($HTML){
+		if ( empty( $HTML ) ){
+			return false;
+		}
+		$response = mb_convert_encoding($HTML, 'HTML-ENTITIES', 'UTF-8');
+		return self::_parse($response);
+	}
 
   /**
    * Parses HTML and extracts Open Graph data, this assumes
