@@ -145,7 +145,27 @@ class OpenGraph implements Iterator
 					$page->_values[$key] = $tag->getAttribute('content');
 				}
 			}
+
+			// Notably this will not work if you declare type after you declare type values on a page.
+			if ( array_key_exists('type', $page->_values) ){
+				$meta_key = $page->_values['type'].':';
+				if ($tag->hasAttribute('property') && strpos($tag->getAttribute('property'), $meta_key) === 0) {
+					$meta_key_len = strlen($meta_key);
+					$key = strtr(substr($tag->getAttribute('property'), $meta_key_len), '-', '_');
+					$key = $page->_values['type'].'_'.$key;
+
+					if( array_key_exists($key, $page->_values) ){
+						if ( !array_key_exists($key.'_additional', $page->_values) ){
+							$page->_values[$key.'_additional'] = array();
+						}
+						$page->_values[$key.'_additional'][] = $tag->getAttribute('content');
+					}else{
+						$page->_values[$key] = $tag->getAttribute('content');
+					}
+				}
+			}
 		}
+
 		//Based on modifications at https://github.com/bashofmann/opengraph/blob/master/src/OpenGraph/OpenGraph.php
 		if (!isset($page->_values['title'])) {
             $titles = $doc->getElementsByTagName('title');
