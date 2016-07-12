@@ -51,7 +51,7 @@ class OpenGraph implements Iterator
    */
 	static public function fetch($URI) {
     $cookie_path = 'cookie.txt';
-    if ( !empty(COOKIE_PATH_FOR_CURL) ){
+    if ( defined('COOKIE_PATH_FOR_CURL') && !empty(COOKIE_PATH_FOR_CURL) ){
       $cookie_path = COOKIE_PATH_FOR_CURL;
     }
     $curl = curl_init($URI);
