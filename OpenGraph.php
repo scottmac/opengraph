@@ -154,7 +154,17 @@ class OpenGraph implements Iterator
                     $page->_values['image'] = $domattr->value;
                     $page->_values['image_src'] = $domattr->value;
                 }
-            }
+            } else if (!empty($page->_values['twitter_image'])){
+				$page->_values['image'] = $page->_values['twitter_image'];
+			} else {
+				$elements = $doc->getElementsByTagName("img");
+				foreach ( $elements as $tag ){
+					if ($tag->hasAttribute('width') && ($tag->getAttribute('width') > 300) ){
+						$page->_values['image'] = $tag->getAttribute('src');
+						break;
+					}
+				}
+			}
         }
 
 		if (empty($page->_values)) { return false; }
