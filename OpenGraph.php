@@ -193,7 +193,7 @@ class OpenGraph implements Iterator
 			} else {
 				$elements = $doc->getElementsByTagName("img");
 				foreach ( $elements as $tag ){
-					if ($tag->hasAttribute('width') && ($tag->getAttribute('width') > 300) ){
+					if ($tag->hasAttribute('width') && ( ($tag->getAttribute('width') > 300) || ($tag->getAttribute('width') == '100%') ) ){
 						$page->_values['image'] = $tag->getAttribute('src');
 						break;
 					}
