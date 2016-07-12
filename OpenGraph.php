@@ -110,7 +110,7 @@ class OpenGraph implements Iterator
 			}
 
 			//Added this if loop to retrieve description values from sites like the New York Times who have malformed it.
-			if ($tag ->hasAttribute('value') && $tag->hasAttribute('property') &&
+			if ($tag->hasAttribute('value') && $tag->hasAttribute('property') &&
 			    strpos($tag->getAttribute('property'), 'og:') === 0) {
 				$key = strtr(substr($tag->getAttribute('property'), 3), '-', '_');
 				$page->_values[$key] = $tag->getAttribute('value');
@@ -120,6 +120,17 @@ class OpenGraph implements Iterator
                 $nonOgDescription = $tag->getAttribute('content');
             }
 
+			if ($tag->hasAttribute('property') &&
+			    strpos($tag->getAttribute('property'), 'twitter:') === 0) {
+				$key = strtr($tag->getAttribute('property'), '-:', '__');
+				$page->_values[$key] = $tag->getAttribute('content');
+			}
+
+			if ($tag->hasAttribute('name') &&
+				strpos($tag->getAttribute('name'), 'twitter:') === 0) {
+				$key = strtr($tag->getAttribute('name'), '-:', '__');
+				$page->_values[$key] = $tag->getAttribute('content');
+			}
 		}
 		//Based on modifications at https://github.com/bashofmann/opengraph/blob/master/src/OpenGraph/OpenGraph.php
 		if (!isset($page->_values['title'])) {
