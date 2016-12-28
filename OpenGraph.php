@@ -157,7 +157,7 @@ class OpenGraph implements Iterator
 		}
 		
 		if ($key === 'schema') {
-			foreach (self::$TYPES AS $schema => $types) {
+			foreach (!empty($this->_values['type']) && self::$TYPES AS $schema => $types) {
 				if (array_search($this->_values['type'], $types)) {
 					return $schema;
 				}
